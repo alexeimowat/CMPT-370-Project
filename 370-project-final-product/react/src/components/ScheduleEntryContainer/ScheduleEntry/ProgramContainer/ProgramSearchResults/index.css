@@ -1,0 +1,43 @@
+.programSearchResultContainer {
+  flex-grow: 1;
+  overflow: auto;
+  background-color: #eceef3;
+  max-height: 250px;
+  color: black;
+}
+.programSearchResultContainer .programResults {
+  width: 97%;
+  height: 95%;
+  padding: 10px;
+  display: table;
+}
+.programSearchResultContainer .programResults .col {
+  background-color: #5d719a;
+  color: white;
+  padding: 5px 5px;
+  font-weight: bold;
+}
+.programSearchResultContainer .programResults button {
+  margin: auto 5px;
+  border: 1px solid #4fa55d;
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+  font-size: 10pt;
+  font-family: "Montserrat", sans-serif;
+  background-color: #4fa55d;
+  transition: 0.2s;
+}
+.programSearchResultContainer .programResults button:hover, .programSearchResultContainer .programResults button:focus {
+  background-color: #428b4e;
+  border-color: #428b4e;
+  cursor: pointer;
+  transition: 200ms;
+}
+.programSearchResultContainer .programResults button:active {
+  background-color: #428b4e;
+  border-color: #428b4e;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,190 @@
+@import "../../../../defaults.scss";
+
+.deleted { display: none }
+
+.termContainer {
+
+  .mainTermContent {
+    grid-area: mainTermContent;
+    display: flex;
+  }
+
+  display: flex;
+  flex-direction: column;
+  min-width: 950px;
+  height: max-content;
+  width: max-content;
+  padding: 0 10px;
+  background: white;
+  border: #bcc2bd solid 1px;
+
+  grid-template-columns: max-content 1fr;
+
+  grid-template-areas:
+    "termModifier termModifier termModifier"
+    "mainTermContent mainTermContent mainTermContent"
+  ;
+
+  //outline: 1px solid black;
+  margin: 0;
+  box-shadow: gray 2px 2px 2px;
+
+  .termModifier {
+
+    padding: 10px 0;
+
+    grid-area: termModifier;
+    display: inline-flex;
+    justify-content: space-between;
+
+    .termTitle {
+      margin: 5px;
+      font-size: 14pt;
+    }
+
+    .termLabelForm {
+      margin: 5px;
+
+      label {
+        font-size: 13pt;
+      }
+    }
+
+    .editLabelButton {
+      margin: auto auto auto 10px;
+    }
+
+    .termLabelForm {
+
+    }
+
+    .addingBlockForm {
+
+      margin: 5px 30px;
+
+      display: flex;
+      flex-direction: column;
+
+    }
+
+    .rightHandButtons {
+      margin: auto 5px auto auto;
+
+      .submit {
+        height: 40px;
+        margin-right: 50px;
+      }
+
+      .delete {
+        margin-left: 5px;
+      }
+    }
+  }
+
+  .timeScale {
+    grid-area: timeScale;
+
+    .time {
+    }
+  }
+
+  .mainDayContainer {
+    grid-area: mainDayContainer;
+    display: flex;
+    flex-direction: row;
+    width: min-content;
+  }
+
+  .timeBlocks {
+    grid-area: timeBlocks;
+    margin-left: 10px;
+    white-space: nowrap;
+    width: 120px;
+
+    .timeBlockList {
+      font-size: 14pt;
+    }
+
+    .minimalTimeBlock {
+
+      overflow: hidden;
+      font-size: 10pt;
+
+      .minimalTitle {
+        font-weight: 500;
+
+        &:hover + .extraDetails {
+          height: 80px;
+        }
+      }
+
+      .extraDetails {
+
+        height: 0;
+        transition: 0.2s;
+
+        &:hover {
+          height: 80px;
+        }
+
+        .minimalLocation {
+        }
+
+        button {
+          width: 50px;
+          font-size: 8pt;
+          padding: 2px;
+          margin: 0 auto;
+          background-color: lightcoral;
+        }
+      }
+    }
+  }
+
+  & > *:not(:last-child){
+    border-right: none;
+  }
+
+  button {
+
+    // General styling for buttons; vertical alignment with some elbow room!
+    margin: auto 5px;
+    border: 1px solid #d3d1e0;
+    border-radius: 2px;
+    padding: 5px;
+
+    font-size: 10pt;
+    font-family: "Montserrat", sans-serif;
+
+    background-color: #d3d1e0;
+    transition: 0.2s;
+
+    &:hover, &:focus {
+      background-color: #c4c2d0;
+      border-color: #c4c2d0;
+      cursor: pointer;
+    }
+
+    &:active {
+      background-color: #bcbac6;
+      border-color: #bcbac6;
+    }
+  }
+
+  .delete {
+    background-color: #bd3030;
+    border: #bd3030 solid 1px;
+    transition: 0.2s;
+    color: white;
+
+    &:hover, &:focus {
+      background-color: #a22828;
+      border-color: #a22828;
+      cursor: pointer;
+    }
+
+    &:active {
+      background-color:  #962525;
+    }
+  }
+}

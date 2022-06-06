@@ -1,0 +1,55 @@
+.resultContainer {
+
+  //margin: 10px;
+  flex-grow: 1;
+  overflow: auto;
+  background-color:  #eceef3;
+
+  .results {
+    width: 100%;
+    height: 95%;
+    //padding: 10px;
+    display: table;
+
+      .col {
+        display: table-cell;
+        position: sticky;
+        background-color: #5d719a;
+        color: white;
+        padding: 5px 5px;
+        font-weight: bold;
+        //max-height: 100%;
+        //height: 100%;
+        outline: #536589 1px solid;
+      }
+
+
+    button {
+
+      // General styling for buttons; vertical alignment with some elbow room!
+      margin: auto 5px;
+      border: 1px solid #4fa46e;
+      border-radius: 3px;
+      padding: 5px;
+
+      font-size: 10pt;
+      font-family: "Montserrat", sans-serif;
+
+      background-color:  #4fa46e;
+      color: white;
+      transition: 0.2s;
+
+      &:hover, &:focus {
+        background-color:  #499464;
+        border-color: #499464;
+        transition: 200ms;
+      }
+
+      &:active {
+        background-color:  #499464;
+      }
+
+    }
+
+  }
+}

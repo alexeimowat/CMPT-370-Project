@@ -1,0 +1,142 @@
+/*
+Style Sheet for the Class Search and Results Section of the main Interface
+ */
+.classSearcherContainer {
+  /*  //Uncomment this later.
+  // Good but probably just in the way while getting other stuff working
+
+  position: -webkit-sticky;
+  position: sticky;
+  top: 5px;
+  */
+  background-color: #dbdde1;
+  margin: 30px;
+  box-shadow: 3px 3px 3px gray;
+}
+.classSearcherContainer .mainClassSearcherContent {
+  display: flex;
+  flex-direction: row;
+  max-height: 250px;
+}
+.classSearcherContainer .mainClassSearcherContent .searchContainer {
+  flex-grow: 1;
+  padding: 0 10px;
+  justify-content: space-between;
+  overflow: auto;
+  background-color: #dbdde1;
+  color: black;
+  display: flex;
+  flex-direction: row;
+}
+.classSearcherContainer .mainClassSearcherContent .searchContainer .fields {
+  min-width: 400px;
+}
+.classSearcherContainer .mainClassSearcherContent .searchContainer .searchAreaContent .searchAreaTitle {
+  font-size: 14pt;
+  font-weight: 500;
+  margin: 5px 0;
+}
+.classSearcherContainer .mainClassSearcherContent .searchContainer .searchAreaContent h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.classSearcherContainer .mainClassSearcherContent .searchContainer .searchAreaContent .classSearchField {
+  margin: 15px 0;
+  display: table-row;
+}
+.classSearcherContainer .mainClassSearcherContent .searchContainer .searchAreaContent .classSearchField label {
+  margin: 10px;
+  padding: 10px;
+  font-weight: bold;
+  display: table-cell;
+}
+.classSearcherContainer .mainClassSearcherContent .searchContainer .searchAreaContent .classSearchField input {
+  margin: 5px;
+  padding: 5px;
+  display: table-cell;
+  width: 50%;
+}
+.classSearcherContainer .mainClassSearcherContent .searchContainer .searchAreaContent .inputRangeWrapper {
+  padding: 20px 10px;
+}
+.classSearcherContainer .mainClassSearcherContent .searchContainer button {
+  background-color: #40619c;
+  border: #40619c 1px solid;
+  color: white;
+  padding: 5px 10px;
+  margin: auto 30px;
+  border-radius: 5px;
+  display: table-cell;
+  transition: 400ms;
+  height: max-content;
+}
+.classSearcherContainer .mainClassSearcherContent .searchContainer button:hover {
+  background-color: #304875;
+  border-color: #304875;
+  cursor: pointer;
+}
+.classSearcherContainer .mainClassSearcherContent .searchContainer .SearchFields {
+  max-height: 50px;
+  display: table;
+  width: 100%;
+}
+.classSearcherContainer .mainClassSearcherContent .classSearchButton {
+  margin: auto 20px;
+  padding: 10px 20px;
+  font-size: 16pt;
+  flex-grow: 0;
+  border-radius: 3px;
+}
+.classSearcherContainer .eligibleScheduleEntryContainer {
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+  background-color: #607cab;
+  padding: 10px;
+}
+.classSearcherContainer .eligibleScheduleEntryContainer .notFound {
+  color: white;
+  margin-left: 40%;
+}
+.classSearcherContainer .eligibleScheduleEntryContainer .quitButton {
+  background-color: #bd3030;
+  border: #bd3030 solid 1px;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 10px;
+  transition: 200ms;
+  margin: 0 15px;
+}
+.classSearcherContainer .eligibleScheduleEntryContainer .quitButton:hover {
+  background-color: #a22828;
+  border-color: #a22828;
+  transition: 200ms;
+  cursor: pointer;
+}
+
+/*
+Style Sheet for the results of searching.
+ */
+.SearchResultsRow {
+  display: table-row;
+}
+.SearchResultsRow .classClickable {
+  display: table-cell;
+  background-color: white;
+  padding: 5px;
+  outline: #e3e6ec 1px solid;
+  transition: 400ms;
+}
+.SearchResultsRow .classClickable:hover {
+  background-color: #e3e6ec;
+  cursor: pointer;
+}
+.SearchResultsRow p {
+  display: table-cell;
+  background-color: white;
+  padding: 5px;
+  outline: #e3e6ec 1px solid;
+}
+
+/*# sourceMappingURL=index.css.map */

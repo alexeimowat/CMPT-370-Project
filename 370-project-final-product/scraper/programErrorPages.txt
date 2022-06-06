@@ -1,0 +1,51 @@
+https://programs.usask.ca/arts-and-science/art-history/ba-honours-art-history.php
+local variable 'number' referenced before assignment
+
+https://programs.usask.ca/arts-and-science/chemistry/bsc-4-chemistry.php
+local variable 'number' referenced before assignment
+
+https://programs.usask.ca/arts-and-science/environmental-biology/bsc-4-environmental-biology.php
+local variable 'number' referenced before assignment
+
+https://programs.usask.ca/arts-and-science/food-science/bsc-4-food-science.php
+local variable 'number' referenced before assignment
+
+https://programs.usask.ca/arts-and-science/international-studies/ba-honours-international-studies.php
+local variable 'number' referenced before assignment
+
+https://programs.usask.ca/arts-and-science/international-studies/ba-4-international-studies.php
+local variable 'number' referenced before assignment
+
+https://programs.usask.ca/arts-and-science/modern-languages/ba-4-modern-languages.php
+list index out of range
+
+https://programs.usask.ca/arts-and-science/modern-languages/ba-3-modern-languages.php
+list index out of range
+
+https://programs.usask.ca/arts-and-science/music/ba-honours-music.php
+list index out of range
+
+https://programs.usask.ca/arts-and-science/music/ba-4-music.php
+list index out of range
+
+https://programs.usask.ca/arts-and-science/music/ba-3-music.php
+list index out of range
+
+https://programs.usask.ca/arts-and-science/music-education/bmus-mused-hon-early-middle-years.php
+list index out of range
+
+https://programs.usask.ca/arts-and-science/music-education/bmus-mused-early-middle-years.php
+list index out of range
+
+https://programs.usask.ca/arts-and-science/physics/bsc-4-physics.php
+local variable 'number' referenced before assignment
+
+https://programs.usask.ca/arts-and-science/physics/bsc-3-physics.php
+local variable 'number' referenced before assignment
+
+https://programs.usask.ca/arts-and-science/psychology/bsc-4-psychology.php
+local variable 'number' referenced before assignment
+
+https://programs.usask.ca/arts-and-science/psychology/bsc-double-honours-psychology-1.php
+local variable 'number' referenced before assignment
+

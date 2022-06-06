@@ -1,0 +1,47 @@
+.mainToProgramWindowContainer {
+  background-color: #5896d8;
+  border: 1px solid black;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  overflow: auto;
+  margin-right: 20px;
+}
+.mainToProgramWindowContainer button {
+  margin: auto 5px;
+  border: 1px solid black;
+  border-radius: 2px;
+  padding: 5px;
+  font-size: 10pt;
+  font-family: "Montserrat", sans-serif;
+}
+.mainToProgramWindowContainer .scheduleTitleButton {
+  background-color: #a9ffcf;
+}
+.mainToProgramWindowContainer .scheduleTitleButton:hover, .mainToProgramWindowContainer .scheduleTitleButton:focus {
+  background-color: #93deb4;
+}
+.mainToProgramWindowContainer .scheduleTitleButton:active {
+  background-color: #86cba5;
+}
+.mainToProgramWindowContainer .addToTermButton {
+  background-color: #DCFFFB;
+}
+.mainToProgramWindowContainer .addToTermButton:hover, .mainToProgramWindowContainer .addToTermButton:focus {
+  background-color: #c8e8e4;
+}
+.mainToProgramWindowContainer .addToTermButton:active {
+  background-color: #9fbab7;
+}
+.mainToProgramWindowContainer .cancelAddToSchedule {
+  background-color: #FFDCF4;
+  transition: 0.2s;
+}
+.mainToProgramWindowContainer .cancelAddToSchedule:hover, .mainToProgramWindowContainer .cancelAddToSchedule:focus {
+  background-color: #e2c3d8;
+}
+.mainToProgramWindowContainer .cancelAddToSchedule:active {
+  background-color: #FFDCF4;
+}
+
+/*# sourceMappingURL=index.css.map */

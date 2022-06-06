@@ -1,0 +1,52 @@
+.requirementContainer {
+
+  max-height: 400px;
+  overflow-y: auto;
+
+  min-width: min-content;
+  display: inline-block;
+
+  margin: 5px;
+  padding: 5px;
+
+  .categoryTitle {
+    font-size: 13pt;
+    border-bottom: 1px solid black;
+    font-weight: 600;
+  }
+
+  div {
+
+    .subsetTitle {
+      font-size: 11pt;
+      border: none;
+      margin-bottom: 3px;
+    }
+
+    ul {
+
+      margin: 0;
+
+      li {
+        font-size: 10pt;
+        list-style-type: circle;
+      }
+
+      .strikethrough {
+        text-decoration: line-through;
+      }
+
+      .fadeout {
+        opacity: 0.5;
+        background-color: #505050;
+      }
+    }
+
+    .requirementDescription {
+      font-size: 12pt;
+      margin: 0;
+      padding: 0;
+    }
+
+  }
+}

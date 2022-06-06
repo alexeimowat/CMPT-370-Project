@@ -1,0 +1,39 @@
+.requirementContainer {
+  max-height: 400px;
+  overflow-y: auto;
+  min-width: min-content;
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+}
+.requirementContainer .categoryTitle {
+  font-size: 13pt;
+  border-bottom: 1px solid black;
+  font-weight: 600;
+}
+.requirementContainer div .subsetTitle {
+  font-size: 11pt;
+  border: none;
+  margin-bottom: 3px;
+}
+.requirementContainer div ul {
+  margin: 0;
+}
+.requirementContainer div ul li {
+  font-size: 10pt;
+  list-style-type: circle;
+}
+.requirementContainer div ul .strikethrough {
+  text-decoration: line-through;
+}
+.requirementContainer div ul .fadeout {
+  opacity: 0.5;
+  background-color: #505050;
+}
+.requirementContainer div .requirementDescription {
+  font-size: 12pt;
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=index.css.map */

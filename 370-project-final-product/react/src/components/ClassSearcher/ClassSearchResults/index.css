@@ -1,0 +1,40 @@
+.resultContainer {
+  flex-grow: 1;
+  overflow: auto;
+  background-color: #eceef3;
+}
+.resultContainer .results {
+  width: 100%;
+  height: 95%;
+  display: table;
+}
+.resultContainer .results .col {
+  display: table-cell;
+  position: sticky;
+  background-color: #5d719a;
+  color: white;
+  padding: 5px 5px;
+  font-weight: bold;
+  outline: #536589 1px solid;
+}
+.resultContainer .results button {
+  margin: auto 5px;
+  border: 1px solid #4fa46e;
+  border-radius: 3px;
+  padding: 5px;
+  font-size: 10pt;
+  font-family: "Montserrat", sans-serif;
+  background-color: #4fa46e;
+  color: white;
+  transition: 0.2s;
+}
+.resultContainer .results button:hover, .resultContainer .results button:focus {
+  background-color: #499464;
+  border-color: #499464;
+  transition: 200ms;
+}
+.resultContainer .results button:active {
+  background-color: #499464;
+}
+
+/*# sourceMappingURL=index.css.map */

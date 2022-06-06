@@ -1,0 +1,22 @@
+.ButtonContainer {
+
+  margin: auto 30px auto auto;
+
+  #helpPls {
+    background-color:  #508a4b;
+    border:  #508a4b solid 1px;
+    border-radius: 5px;
+    padding: 5px 5px;
+    color: white;
+    text-decoration: none;
+    font-size: large;
+
+    &:hover {
+      background-color:  #40703c;
+      border: #40703c solid 1px;
+      transition: 400ms;
+      cursor: pointer;
+    }
+  }
+
+}

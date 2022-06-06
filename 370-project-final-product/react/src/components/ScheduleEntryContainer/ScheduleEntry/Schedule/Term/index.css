@@ -1,0 +1,165 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,500&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Spartan&display=swap");
+::-webkit-scrollbar {
+  height: 15px;
+  border: 5px solid #d5d5d5;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background: #eeeeee;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background: #b0b0b0;
+}
+
+.deleted {
+  display: none;
+}
+
+.termContainer {
+  display: flex;
+  flex-direction: column;
+  min-width: 950px;
+  height: max-content;
+  width: max-content;
+  padding: 0 10px;
+  background: white;
+  border: #bcc2bd solid 1px;
+  grid-template-columns: max-content 1fr;
+<<<<<<< HEAD
+  grid-template-areas: "termModifier termModifier termModifier" "timeScale mainDayContainer timeBlocks";
+=======
+  grid-template-areas: "termModifier termModifier termModifier" "mainTermContent mainTermContent mainTermContent";
+<<<<<<< HEAD
+>>>>>>> scheduleDevelopment
+  outline: 1px solid black;
+=======
+>>>>>>> scheduleDevelopment
+  margin: 0;
+  box-shadow: gray 2px 2px 2px;
+}
+.termContainer .mainTermContent {
+  grid-area: mainTermContent;
+  display: flex;
+}
+.termContainer .termModifier {
+  padding: 10px 0;
+  grid-area: termModifier;
+  display: inline-flex;
+  justify-content: space-between;
+}
+.termContainer .termModifier .termTitle {
+  margin: 5px;
+  font-size: 14pt;
+}
+.termContainer .termModifier .termLabelForm {
+  margin: 5px;
+}
+.termContainer .termModifier .termLabelForm label {
+  font-size: 13pt;
+}
+.termContainer .termModifier .editLabelButton {
+  margin: auto auto auto 10px;
+}
+.termContainer .termModifier .addingBlockForm {
+  margin: 5px 30px;
+  display: flex;
+  flex-direction: column;
+}
+.termContainer .termModifier .rightHandButtons {
+  margin: auto 5px auto auto;
+}
+.termContainer .termModifier .rightHandButtons .submit {
+  height: 40px;
+  margin-right: 50px;
+}
+.termContainer .termModifier .rightHandButtons .delete {
+  margin-left: 5px;
+}
+.termContainer .timeScale {
+  grid-area: timeScale;
+}
+.termContainer .mainDayContainer {
+  grid-area: mainDayContainer;
+  display: flex;
+  flex-direction: row;
+  width: min-content;
+}
+.termContainer .timeBlocks {
+  grid-area: timeBlocks;
+  margin-left: 10px;
+  white-space: nowrap;
+  width: 120px;
+}
+.termContainer .timeBlocks .timeBlockList {
+  font-size: 14pt;
+}
+.termContainer .timeBlocks .minimalTimeBlock {
+  overflow: hidden;
+  font-size: 10pt;
+}
+.termContainer .timeBlocks .minimalTimeBlock .minimalTitle {
+  font-weight: 500;
+}
+.termContainer .timeBlocks .minimalTimeBlock .minimalTitle:hover + .extraDetails {
+  height: 80px;
+}
+.termContainer .timeBlocks .minimalTimeBlock .extraDetails {
+  height: 0;
+  transition: 0.2s;
+}
+.termContainer .timeBlocks .minimalTimeBlock .extraDetails:hover {
+  height: 80px;
+}
+.termContainer .timeBlocks .minimalTimeBlock .extraDetails button {
+  width: 50px;
+  font-size: 8pt;
+  padding: 2px;
+  margin: 0 auto;
+  background-color: lightcoral;
+}
+.termContainer > *:not(:last-child) {
+  border-right: none;
+}
+.termContainer button {
+  margin: auto 5px;
+  border: 1px solid #d3d1e0;
+  border-radius: 2px;
+  padding: 5px;
+  font-size: 10pt;
+  font-family: "Montserrat", sans-serif;
+  background-color: #d3d1e0;
+  transition: 0.2s;
+}
+.termContainer button:hover, .termContainer button:focus {
+  background-color: #c4c2d0;
+  border-color: #c4c2d0;
+  cursor: pointer;
+}
+.termContainer button:active {
+  background-color: #bcbac6;
+  border-color: #bcbac6;
+}
+.termContainer .delete {
+  background-color: #bd3030;
+  border: #bd3030 solid 1px;
+  transition: 0.2s;
+  color: white;
+}
+.termContainer .delete:hover, .termContainer .delete:focus {
+  background-color: #a22828;
+  border-color: #a22828;
+  cursor: pointer;
+}
+.termContainer .delete:active {
+  background-color: #962525;
+}
+
+/*# sourceMappingURL=index.css.map */

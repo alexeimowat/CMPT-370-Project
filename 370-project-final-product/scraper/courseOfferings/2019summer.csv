@@ -1,0 +1,264 @@
+ ,CRN,Subj,Crse,Sec,Cmp,Cred,Title,Type,Days,Time,Cap,Avail,Instructor,Date (DD-MM),Location,Attribute
+ ,61123,XCHG,002,02,OFF,3.0,Summer Academic Exchange in Phillips Universitat Marburg in GermanyU of S Int'l Approval Required,XNA,,TBA,10,10,TBA,20-Jul18-Aug,TBA,No Academic CreditOff Campus Student FeesTuition - Outbound ExchangeAcademic Exchange Program
+ ,61129,XCHG,002,03,OFF,6.0,On Academic Exchange Phillips Universitat Marburg in GermanyU of S Int'l Approval Required,XNA,,TBA,10,9,TBA,20-Jul18-Aug,TBA,No Academic CreditOff Campus Student FeesTuition - Outbound ExchangeAcademic Exchange Program
+ ,61107,XCHG,003,55,OFF,3.0,On Academic Exchange Hong Kong Baptist University in Hong KongU of S Int'l Approval Required,XNA,,TBA,10,9,TBA,01-Jul30-Jul,TBA,No Academic CreditOff Campus Student FeesTuition - Outbound ExchangeAcademic Exchange Program
+ ,60792,AGRC,111,W02,OFF,3.0,Discovery in Plant and Soil Sciences ,WEB,,TBA,80,52,Barb A  Stefanyshyn-Cote (P),27-Jun13-Aug,TBA,Distance Education UnitOff Campus Student FeesTuition - Category 13Class Is Offered On-Line Only
+ ,60804,ANBI,475*,01,SK,3.0,Field Studies in Arctic Ecosystems and Aboriginal PeoplesInstructors Signature Required,FLD,,TBA,16,2,Ryan K  Brook (P),10-Aug24-Aug,TBA,Off Campus Student FeesTuition - Category 13
+ ,60955,ANTH,111,02,SK,3.0,One World Many Peoples Introduction to Cultural Anthropology ,LEC,MTWRF,11:00 am- 01:20 pm,75,25,Elaine   Hulse (P),27-Jun18-Jul,AGRI 5C61,On Campus Student FeesSocial Sciences Program TypeTuition - Category 1
+ ,61082,ARCH,300*,01,OFF,3.0,Community-Based ArchaeologyDepartmental Approval Required,RDG,MTWRF,08:00 am- 11:59 am,6,0,Terence N  Clark (P),08-Jul23-Aug,NA NO_ROOM,Community engaged learningField-based instructionStudy abroadOff Campus Student FeesSocial Sciences Program TypeTuition - Category 8
+ ,61083,ARCH,300*,02,OFF,3.0,Northwest Coast Archaeological Field MethodsDepartmental Approval Required,RDG,MTWRF,12:00 pm- 04:00 pm,6,0,Terence N  Clark (P),08-Jul23-Aug,NA NO_ROOM,Community engaged learningField-based instructionStudy abroadOff Campus Student FeesSocial Sciences Program TypeTuition - Category 8
+ ,60006,ART,111,02,SK,6.0,Painting I Foundation ,LEC,MTWR,01:30 pm- 04:20 pm,29,3,Terry L  Billings (P),27-Jun13-Aug,MURRY 291,Audit Allowed with PermissionFine Arts Program TypeOn Campus Student FeesTuition - Category 8No Exam - Exemption Authorized
+ ,60008,ART,112,02,SK,6.0,Drawing I Foundation ,LEC,MTWR,09:30 am- 12:20 pm,27,2,Xiao   Han (P),27-Jun13-Aug,MURRY 190,Audit Allowed with PermissionFine Arts Program TypeOn Campus Student FeesTuition - Category 8No Exam - Exemption Authorized
+ ,60717,ART,136,01,SK,3.0,Digital and Integrated Practice I Foundation ,LEC,MTWR,09:30 am- 12:20 pm,16,3,Jordan L  Schwab (P),27-Jun18-Jul,MURRY 184,Audit Allowed with PermissionFine Arts Program TypeOn Campus Student FeesTuition - Category 8
+ ,60674,ART,141,02,SK,3.0,Sculpture I Foundation ,LEC,MTWR,01:30 pm- 04:20 pm,22,1,Jordan L  Schwab (P),23-Jul13-Aug,RANNEX 129,Audit Allowed with PermissionFine Arts Program TypeOn Campus Student FeesTuition - Category 8
+ ,61024,ART,216*,03,SK,6.0,Photography II ,LEC,MTWR,01:30 pm- 04:20 pm,24,8,Frances E  Robson (P),27-Jun13-Aug,MURRY 182,Audit Allowed with PermissionFine Arts Program TypeA Multi-term CourseOn Campus Student FeesTuition - Category 8
+ ,60972,ART,251*,01,SK,3.0,Intermediate Printmaking ,LEC,MTWR,09:30 am- 12:20 pm,20,10,Jacob L  Semko (P),27-Jun18-Jul,MURRY 64,Audit Allowed with PermissionFine Arts Program TypeOn Campus Student FeesTuition - Category 8
+ ,61091,ART,495,01,SK,0.0,BFA ExhibitionDepartmental Approval Required,LAB,,TBA,1,1,TBA,27-Jun13-Aug,TBA,Audit Allowed with PermissionFine Arts Program TypeNo Academic CreditOn Campus Student FeesNo Tuition Assessed
+ ,60772,EART,303,01,SK,3.0,Methods in Elementary Visual Art ,LEC,MTWR,01:00 pm- 04:20 pm,25,-1,Monique R  Blom (P),27-Jun18-Jul,EDUC 1019,On Campus Student FeesTuition - Category 1
+ ,61025,ARTH,308*,1,SK,3.0,Art of High Renaissance and Reformation Era 1500 to 1550 ,LEC,MTWR,09:30 am- 12:20 pm,30,20,Sandra D  Herron (P),27-Jun18-Jul,MURRY 299,Audit Allowed with PermissionFine Arts Program TypeOn Campus Student FeesTuition - Category 1
+ ,60937,ASKI,101,02,SK,3.0,Field Studies in the Environment ,MM,MTWRFSU,08:30 am- 11:50 am,40,16,Melissa M  Arcand (P),27-Jun13-Aug,ARCH 124,On Campus Student FeesTuition - Category 13
+ , , , , , , , ,MM,,TBA, , ,Melissa M  Arcand (P),27-Jun13-Aug,NA NO_ROOM, 
+ ,60654,ASTR,102,03,SK,3.0,Introduction to Galaxies and Cosmology ,LEC,MTWRF,09:00 am- 11:20 am,100,51,Daryl G  Janzen (P),23-Jul13-Aug,ARTS 133,On Campus Student FeesScience Program TypeTuition - Category 8
+ ,60619,BIOL,121,01,SK,3.0,The Diversity of Life ,LEC,MTWRF,08:30 am- 10:50 am,112,41,Manar A  Angrini (P),23-Jul13-Aug,ARTS 134,On Campus Student FeesScience Program TypeTuition - Category 8
+ , , , , , , , ,LAB,MTWRF,01:30 pm- 04:20 pm, , ,Manar A  Angrini (P),23-Jul13-Aug,BIOL 204, 
+ ,60925,BIOL,350,01,SK,3.0,Field CourseDepartmental Approval Required,FLD,MTWRFSU,08:30 am- 05:50 pm,20,11,Jeffrey E  Lane (P), Karen L  Wiebe ,19-Aug30-Aug,NA NO_ROOM,Field-based instructionUndergraduate researchOn Campus Student FeesScience Program TypeTuition - Category 8
+ ,60877,CTST,200*,WS2,OFF,3.0,Introduction to Catholic Studies ,WEB,,TBA,40,22,Lesya M  Sabada (P),27-Jun18-Jul,TBA,Audit Allowed with PermissionHumanities Program TypeOff Campus Student FeesSt. Thomas More College ClassTuition - Category 1
+ ,60029,CHEM,250*,02,SK,3.0,Introduction to Organic Chemistry ,LEC,MTWRF,08:30 am- 10:50 am,74,5,David A  Sanders (P),27-Jun18-Jul,PHYSIC 107,Uses Blackboard Web ToolsOn Campus Student FeesScience Program TypeTuition - Category 8
+ , , , , , , , ,LAB,MTWRF,12:00 pm- 02:50 pm, , ,David A  Sanders (P),27-Jun18-Jul,THORV SG50, 
+ ,60926,CLAS,103,W02,OFF,3.0,Medical Terminology ,WEB,,TBA,250,173,Kyle   McLeister (P),27-Jun13-Aug,NA NO_ROOM,Arts and Sci No Program TypeDistance Education UnitOff Campus Student FeesTuition - Category 1Class Is Offered On-Line Only
+ ,61015,CLAS,225*,62,SK,3.0,Women in Antiquity ,LEC,MTWRF,11:00 am- 01:20 pm,30,13,A. F  DeVito (P),27-Jun18-Jul,STM 200,Audit Allowed with PermissionHumanities Program TypeOn Campus Student FeesSt. Thomas More College ClassTuition - Category 1
+ ,60980,COMM,205*,02,SK,3.0,Introduction to Operations Management ,LEC,TR,07:00 pm- 09:50 pm,60,19,Mohsin N  Jat (P),27-Jun13-Aug,ESB 103,On Campus Student FeesTuition - Category 4
+ ,60047,COMM,207*,02,SK,3.0,Business Statistics II ,LEC,MW,04:00 pm- 06:50 pm,60,11,Mustafa   Avci (P),27-Jun13-Aug,ESB 144,On Campus Student FeesTuition - Category 4
+ ,60414,COMM,210*,02,SK,3.0,Introduction to Management Accounting ,LEC,TR,04:00 pm- 06:50 pm,60,20,Tom G  Porter (P),27-Jun13-Aug,ARTS 109,On Campus Student FeesTuition - Category 4
+ ,61016,COMM,307*,02,SK,3.0,Management Information SystemsDepartmental Approval Required,LEC,TR,04:00 pm- 06:50 pm,50,28,Parminder   Kang (P),27-Jun13-Aug,ESB 112,On Campus Student FeesTuition - Category 4
+ ,60051,COMM,323*,02,SK,3.0,Corporate Financial Reporting IIDepartmental Approval Required,LEC,MW,04:00 pm- 06:50 pm,60,7,Julie A  Tsui (P),27-Jun13-Aug,ESB 46,On Campus Student FeesTuition - Category 4
+ ,60520,COMM,363*,02,SK,3.0,Intermediate Corporate FinanceDepartmental Approval Required,LEC,TR,04:00 pm- 06:50 pm,50,21,Amarjit   Gill (P),27-Jun13-Aug,ESB 46,On Campus Student FeesTuition - Category 4
+ ,61078,CHEP,898,03,SK,3.0,Complex Survey Data AnalysisInstructors Signature Required,LEC,MTWR,09:00 am- 01:20 pm,8,0,Punam   Pahwa (P),12-Aug31-Aug,HLTH B407,A Multi-term CourseFee - Graduate Studies
+ ,60861,CMPT,140,04A,SK,3.0,Introduction to Creative ComputingDeans Office Approval Required,LEC,MWF,09:00 am- 10:50 am,10,10,Jeffrey R  Long (P),27-Jun13-Aug,THORV 205A,On Campus Student FeesScience Program TypeTuition - Category 3
+ ,60862,CMPT,140,04B,SK,3.0,Introduction to Creative Computing ,LEC,MWF,09:00 am- 10:50 am,40,20,Jeffrey R  Long (P),27-Jun13-Aug,THORV 205A,On Campus Student FeesScience Program TypeTuition - Category 3
+ ,60930,CMPT,140,L02,SK,0.0,Introduction to Creative Computing ,LAB,MWF,11:30 am- 12:20 pm,25,9,TBA,27-JUN13-AUG,THORV S320,No Academic CreditOn Campus Student FeesScience Program TypeNo Tuition Assessed
+ ,60931,CMPT,140,L04,SK,0.0,Introduction to Creative Computing ,LAB,MWF,12:30 pm- 01:20 pm,25,21,TBA,27-JUN13-AUG,THORV S320,No Academic CreditOn Campus Student FeesScience Program TypeNo Tuition Assessed
+ ,60040,CMPT,215*,02,SK,3.0,Introduction to Computer Organization and Architecture ,LEC,TR,08:30 am- 11:20 am,80,32,Matthew K  Miller (P),27-Jun13-Aug,THORV 124,On Campus Student FeesScience Program TypeTuition - Category 3
+ ,60875,CMPT,215,T02,SK,0.0,Introduction to Computer Organization and Architecture ,TUT,TR,12:00 pm- 01:20 pm,40,5,TBA,27-JUN13-AUG,THORV S311,No Academic CreditOn Campus Student FeesScience Program TypeNo Tuition Assessed
+ ,60876,CMPT,215,T04,SK,0.0,Introduction to Computer Organization and Architecture ,TUT,TR,01:30 pm- 02:50 pm,40,27,TBA,27-JUN13-AUG,THORV S311,No Academic CreditOn Campus Student FeesScience Program TypeNo Tuition Assessed
+ ,60042,CMPT,260*,02,SK,3.0,Mathematical Logic and Computing ,LEC,MWF,01:00 pm- 02:50 pm,68,32,Eric M  Neufeld (P),27-Jun13-Aug,THORV 124,On Campus Student FeesScience Program TypeTuition - Category 3
+ , , , , , , , ,TUT,MWF,03:30 pm- 04:20 pm, , ,Eric M  Neufeld (P),27-Jun13-Aug,THORV 124, 
+ ,60379,CMPT,280*,02,SK,3.0,Intermediate Data Structures and Algorithms ,LEC,MWF,08:30 am- 10:20 am,70,17,Jason J  Bernard (P),27-Jun13-Aug,THORV 124,On Campus Student FeesScience Program TypeTuition - Category 3
+ , , , , , , , ,TUT,MWF,11:00 am- 11:50 am, , ,Jason J  Bernard (P),27-Jun13-Aug,THORV 124, 
+ ,61122,CMPT,898,02,SK,3.0,Special Topics:  Human-Driven Software Engineering for Scientific ResearchDepartmental Approval Required,LEC,MR,01:30 pm- 04:45 pm,10,5,Banani   Roy (P),27-Jun13-Aug,THORV S342,Audit Allowed with PermissionOn Campus Student FeesFee - Graduate Studies
+ ,60628,CORR,820,02,OFF,3.0,Law and Policy in Corrections ,SSI,,TBA,3,3,TBA,27-Jun13-Aug,TBA,Independent Studies ClassOff Campus Student FeesNo Tuition Assessed
+ ,60629,CORR,830,02,OFF,4.0,Essential Elements of Forensic and Correctional Assessment ,SSI,,TBA,3,3,TBA,27-Jun13-Aug,TBA,Independent Studies ClassOff Campus Student FeesNo Tuition Assessed
+ ,60630,CORR,840,02,OFF,3.0,Incorporating Effective Correctional Principles and Practices into Case Management ,SSI,,TBA,3,3,TBA,27-Jun13-Aug,TBA,Independent Studies ClassOff Campus Student FeesNo Tuition Assessed
+ ,60626,CORR,860,01,OFF,3.0,Research and Evaluation of Effective Correctional Treatment Principles Practices and Interventions ,SSI,,TBA,3,3,TBA,27-Jun13-Aug,TBA,Independent Studies ClassOff Campus Student FeesNo Tuition Assessed
+ ,60801,CREE,101,02,SK,6.0,Introductory Cree ,LEC,MTWRF,11:00 am- 01:20 pm,35,23,Julie A  Roy (P),27-Jun13-Aug,KIRK 144,Humanities Program TypeOn Campus Student FeesTuition - Category 1
+ ,61065,ECUR,433,2,SK,3.0,Identity and Higher Learning nêhiyawêwin ,LEC,WRFSU,09:00 am- 04:20 pm,40,34,Kevin R  Lewis (P),07-Aug11-Aug,ARTS 105,On Campus Student FeesTuition - Category 3
+ ,61098,ECUR,434,3,SK,3.0,Immersion Language Camp nêhiyawêwinDepartmental Approval Required,FLD,,09:00 am- 04:20 pm,4,-1,TBA,10-Jul14-Jul,TBA,On Campus Student FeesTuition - Category 3
+ ,61071,ECUR,898,11,SK,3.0,Exploring the Spirit and Intent of Truth and ReconciliationDepartmental Approval Required,RDG,,TBA,1,-1,Debbie A  Pushor (P),27-Jun18-Jul,NA NO_ROOM,Audit Not AllowedOn Campus Student FeesFee - Graduate Studies
+ ,61072,ECUR,898,12,SK,3.0,Reclaiming Indigenous Parenting: Healing Residential School LossesDepartmental Approval Required,RDG,,TBA,3,0,Debbie A  Pushor (P),23-Jul13-Aug,NA NO_ROOM,Audit Not AllowedOn Campus Student FeesFee - Graduate Studies
+ ,61081,ECUR,898,13,SK,3.0,Canadian Refugees with Interrupted EducationsDepartmental Approval Required,RDG,,TBA,1,0,Linda A  Wason-Ellam (P),23-Jul13-Aug,NA NO_ROOM,Audit Not AllowedOn Campus Student FeesFee - Graduate Studies
+ ,60789,DRAM,110,01,SK,3.0,Technical Theatre I Scenic Construction ,LEC,MTWRF,10:30 am- 12:50 pm,20,12,Iain L  Rose (P),27-Jun18-Jul,JMITCH 131,Audit Allowed with PermissionFine Arts Program TypeOn Campus Student FeesTuition - Category 8
+ ,60523,DRAM,210*,03,SK,3.0,Technical Theatre III Costume Construction ,LEC,MTWRF,10:00 am- 11:20 am,10,6,Beverley E  Kobelsky (P),23-Jul13-Aug,JMITCH 88,Audit Allowed with PermissionFine Arts Program TypeOn Campus Student FeesTuition - Category 8
+ ,61006,ECON,214*,62,SK,3.0,Intermediate Macroeconomics ,LEC,MTWRF,11:00 am- 01:20 pm,40,8,Anna V  Klimina (P),27-Jun18-Jul,STM 1001,Audit Allowed with PermissionOn Campus Student FeesSocial Sciences Program TypeSt. Thomas More College ClassTuition - Category 1
+ ,60845,ECON,343*,01,SK,3.0,Industrial Organization ,LEC,MTWRF,08:30 am- 10:50 am,60,37,Jingang   Zhao (P),23-Jul13-Aug,ARTS 109,Audit Allowed with PermissionOn Campus Student FeesSocial Sciences Program TypeTuition - Category 1
+ ,60901,EPSE,390*,86,SK,3.0,Exceptional Learners ,LEC,MTWR,10:00 am- 01:20 pm,40,14,Judy L  Jaunzems Fernuk (P),23-Jul13-Aug,EDUC 1251,ITEP ClassOn Campus Student FeesTuition - Category 2
+ ,60873,EPSE,417*,W02,OFF,3.0,Introduction to Counselling Psychology ,WEB,,TBA,40,2,Stephanie L  Martin (P),27-Jun13-Aug,NA NO_ROOM,Audit Allowed with PermissionDistance Education UnitOff Campus Student FeesTuition - Category 2Class Is Offered On-Line Only
+ ,61008,EPSE,417*,W04,OFF,3.0,Introduction to Counselling PsychologyDepartmental Approval Required,WEB,,TBA,40,5,Stephanie L  Martin (P),27-Jun13-Aug,NA NO_ROOM,Audit Allowed with PermissionDistance Education UnitOff Campus Student FeesTuition - Category 2Class Is Offered On-Line Only
+ ,61045,EPSE,888,1,SK,3.0,Trends and IssuesDepartmental Approval Required,WEB,,TBA,22,1,Pei-Ying   Lin (P),27-Jun23-Jul,NA ,Off Campus Student FeesFee - Graduate Studies
+ ,61102,ERES,810,01,OFF,3.0,Indigenous Research Epistemology and MethodsDepartmental Approval Required,LEC,MTWRFS,TBA,18,0,Alex M  Wilson (P),22-Jul27-Jul,TBA,Audit Allowed with PermissionOff Campus Student FeesFee - Graduate Studies
+ ,60959,EADM,411,86,SK,3.0,Inquiry Project and Community Learning Field Experience ,LEC,MTWR,10:00 am- 01:20 pm,40,2,Orest P  Murawsky (P),27-Jun18-Jul,EDUC 1037,ITEP ClassOn Campus Student FeesTuition - Category 2
+ ,60941,EADM,820,01,SK,3.0,Administrative Roles in School Systems ,SEM,MTWRF,09:00 am- 03:50 pm,22,0,Warren J  Noonan (P),08-Jul12-Jul,EDUC 1039,On Campus Student FeesFee - Graduate Studies
+ ,60943,EADM,821,01,SK,3.0,Organizational Behaviour in Education ,SEM,MTWRF,09:00 am- 03:50 pm,22,10,Anne A  Sloboda (P),07-Aug13-Aug,EDUC 2002,On Campus Student FeesFee - Graduate Studies
+ ,61001,EADM,826,03,SK,3.0,Human Resources Leadership in Education ,SEM,MTWRF,09:00 am- 03:50 pm,22,2,Keith D  Walker (P),05-Aug09-Aug,EDUC 2005,On Campus Student FeesFee - Graduate Studies
+ ,61000,EADM,830,02,SK,3.0,Rural Education Schools Communities and Policy Contexts ,SEM,MTWRF,09:00 am- 03:50 pm,21,5,Bill A  Gulka (P),15-Jul19-Jul,EDUC 2002,On Campus Student FeesFee - Graduate Studies
+ ,60827,EADM,894,01,SK,3.0,Laboratory in Educational AdministrationDepartmental Approval Required,SSI,TWRF,04:00 pm- 05:50 pm,40,18,Bill A  Gulka (P),02-Jul05-Jul,TBA,On Campus Student FeesFee - Graduate Studies
+ ,60584,EADM,894,22,SK,3.0,Laboratory in Educational AdministrationDepartmental Approval Required,SSI,TWRF,04:00 pm- 05:50 pm,40,0,Warren J  Noonan (P),02-Jul05-Jul,EDUC 1004,On Campus Student FeesFee - Graduate Studies
+ ,61040,EADM,895,01,SK,3.0,Parents and Education Theory Policy and Practice ,LEC,MTWRF,09:00 am- 03:50 pm,22,1,Bonnie L  Stelmach (P),02-Jul08-Jul,EDUC 1004,Audit Allowed with PermissionOn Campus Student FeesFee - Graduate Studies
+ ,60272,EADM,990,02,SK,0.0,Seminar ,WEB,,TBA,40,22,Paul M  Newton (P),27-Jun13-Aug,TBA,No Academic CreditOff Campus Student FeesNo Tuition AssessedNo Exam - Exemption Authorized
+ ,60580,EFDT,817,02,SK,3.0,Environmental and Sustainability EducationDepartmental Approval Required,SEM,MTWRFU,TBA,18,0,Marcia D  McKenzie (P),28-Jul02-Aug,TBA,Off Campus Student FeesFee - Graduate Studies
+ ,61027,EFDT,842,01,SK,3.0,History of Indigenous Education in CanadaDepartmental Approval Required,LEC,MTWRF,10:00 am- 03:45 pm,22,0,Verna L  St. Denis (P),03-Jul12-Jul,EDUC 1251,On Campus Student FeesFee - Graduate Studies
+ ,61028,EFDT,844,01,SK,3.0,Theory and Practice of Anti-Racist EducationDepartmental Approval Required,SEM,MTWRF,10:00 am- 03:45 pm,22,-7,Verna L  St. Denis (P),17-Jul26-Jul,EDUC 2005,On Campus Student FeesFee - Graduate Studies
+ ,61094,EFDT,898,0,SK,3.0,Institutional Ethnography as a Research Method in EducationDepartmental Approval Required,RDG,,TBA,1,0,Alex M  Wilson (P),27-Jun13-Aug,TBA,On Campus Student FeesFee - Graduate Studies
+ ,60891,EFDT,990,04,SK,0.0,Seminar ,SEM,F,05:00 pm- 08:00 pm,20,9,Sheelah R  McLean (P),12-Jul12-Jul,EDUC 2002,No Academic Credit
+ , , , , , , , ,SEM,S,09:00 am- 05:00 pm, , ,Sheelah R  McLean (P),13-Jul13-Jul,EDUC 2002, 
+ ,60766,ETAD,803,W03,SK,3.0,Multimedia Design for LearningDepartmental Approval Required,WEB,,TBA,22,-2,Jay R  Wilson (P),27-Jun13-Aug,NA NO_ROOM,Audit Not AllowedOff Campus Student FeesFee - Graduate Studies
+ ,61044,ETAD,898,W04,SK,3.0,An Exploration of Learning AnalyticsDepartmental Approval Required,RDG,,TBA,2,0,Marguerite L  Koole (P),23-Jul13-Aug,NA NO_ROOM,Audit Not AllowedOff Campus Student FeesFee - Graduate Studies
+ ,61060,ETAD,898,W05,SK,3.0,Indigenous Language Program Concepts, Processes and ImplementationDepartmental Approval Required,RDG,,TBA,1,0,Marguerite L  Koole (P),23-Jul13-Aug,NA NO_ROOM,Audit Not AllowedOff Campus Student FeesFee - Graduate Studies
+ ,61032,ETAD,991,W02,SK,3.0,Scholarship in TeachingDepartmental Approval Required,WEB,,TBA,1,0,Marguerite L  Koole (P),27-Jun13-Aug,NA NO_ROOM,Audit Not AllowedOff Campus Student FeesFee - Graduate Studies
+ ,61022,ENG,111,02,SK,3.0,Literature and Composition Reading Poetry ,LEC,MTWRF,10:00 am- 12:20 pm,35,4,Henriette M  Morelli (P),23-Jul13-Aug,ARTS 212,Humanities Program TypeOn Campus Student FeesTuition - Category 1
+ ,61023,ENG,113,02,SK,3.0,Literature and Composition Reading Narrative ,LEC,MTWRF,09:30 am- 11:50 am,35,3,Rhonda L  Anderson (P),27-Jun18-Jul,ARTS 208,Humanities Program TypeOn Campus Student FeesTuition - Category 1
+ ,60912,ENG,114,02,SK,3.0,Literature and Composition Reading Culture ,LEC,MTWRF,01:30 pm- 03:50 pm,35,3,Rhonda L  Anderson (P),23-Jul13-Aug,ARTS 213,Humanities Program TypeOn Campus Student FeesTuition - Category 1
+ ,60727,ENG,114,W02,OFF,3.0,Literature and Composition Reading Culture ,WEB,,TBA,55,20,Rita S  Matlock (P),27-Jun13-Aug,TBA,Distance Education UnitHumanities Program TypeOff Campus Student FeesTuition - Category 1Class Is Offered On-Line Only
+ ,60928,ENG,225*,62,SK,3.0,Shakespeare Tragedy and Romance ,LEC,MTWRF,01:30 pm- 03:50 pm,30,8,Robert R  Imes (P),27-Jun18-Jul,STM 260,Audit Allowed with PermissionHumanities Program TypeOn Campus Student FeesSt. Thomas More College ClassTuition - Category 1
+ ,60949,ENG,246*,02,SK,3.0,Short Fiction ,LEC,MTWRF,10:30 am- 12:50 pm,35,9,Jon A  deTombe (P),23-Jul13-Aug,ARTS 213,Audit Allowed with PermissionHumanities Program TypeOn Campus Student FeesTuition - Category 1
+ ,60927,ENG,277*,W02,OFF,3.0,Literary Uses of Mythology ,WEB,,TBA,40,11,Jesse D  Stothers (P),27-Jun13-Aug,TBA,Distance Education UnitHumanities Program TypeOff Campus Student FeesTuition - Category 1Class Is Offered On-Line Only
+ ,60999,ENG,359*,W02,OFF,3.0,Western Canadian Literature ,WEB,,TBA,40,12,Barbara   Langhorst (P),27-Jun13-Aug,NA NO_ROOM,Distance Education UnitHumanities Program TypeOff Campus Student FeesTuition - Category 1Class Is Offered On-Line Only
+ ,61079,ENVS,898,27,OFF,7.5,Special Topics ,FST,,TBA,10,2,Irena F  Creed (P),27-Jun18-Aug,TBA,Audit Allowed with PermissionNo Academic CreditOff Campus Student FeesNo Tuition Assessed
+ ,61084,GEOL,898,06,SK,3.0,Adv GeochemistryDepartmental Approval Required,RDG,MTWRF,TBA,1,0,Chris E  Holmden (P),27-Jun18-Jul,TBA,Fee - Graduate Studies
+ ,60785,XGPC,000,01,SK,6.0,Graduate Pathways Placeholder ,XGN,,TBA,10,10,TBA,27-Jun13-Aug,TBA,No Academic CreditOn Campus Student FeesTuition - Graduate Pathways
+ ,60897,INDG,107,05,SK,3.0,Introduction to Canadian Indigenous Studies ,MM,MTWRFSU,01:00 pm- 04:20 pm,30,8,Mylan M  Tootoosis (P),24-Jun13-Aug,GEOL 165,On Campus Student FeesSocial Sciences Program TypeTuition - Category 1
+ ,60738,INDG,107,W02,OFF,3.0,Introduction to Canadian Indigenous Studies ,WEB,,TBA,100,24,Liz I  Mooney (P),27-Jun13-Aug,TBA,Distance Education UnitOff Campus Student FeesSocial Sciences Program TypeTuition - Category 1Class Is Offered On-Line Only
+ ,61011,INDG,498,01,OFF,3.0,Remembering Resistance AustraliaDepartmental Approval Required,SEM,MTWRFSU,TBA,5,0,Winona L  Wheeler (P),01-Jul15-Jul,TBA,Off Campus Student FeesSocial Sciences Program TypeTuition - Category 1
+ ,60745,INTS,100,W02,OFF,3.0,Strategies for Academic Success ,WEB,,TBA,50,38,Liv C  Marken (P), Veronica L  Stewart ,27-Jun13-Aug,TBA,Arts and Sci No Program TypeDistance Education UnitOff Campus Student FeesTuition - Category 1Class Is Offered On-Line Only
+ ,61135,JSGS,898,01,SK,3.0,Selected Topics in Public PolicyDepartmental Approval Required,LEC,MTWRF,09:00 am- 04:50 pm,9,9,Haizhen   Mou (P),12-Aug23-Aug,DIEF 137,Audit Not AllowedOn Campus Student FeesFee - Graduate Studies
+ ,61067,KIN,146,E68,KA,3.0,Physical Activity and School Aged Children and Youth ,LEC,MTWRF,01:00 pm- 03:50 pm,25,13,Tenille J  Flick (P),23-Jul13-Aug,NA ,Distance Education UnitOff Campus Student FeesNo Tuition Assessed
+ ,61134,KIN,445,01,SK,3.0,Advanced Readings and Special Studies in KinesiologyDepartmental Approval Required,RDG,,TBA,2,0,TBA,23-Jul13-Aug,TBA,On Campus Student FeesTuition - Category 12
+ ,60939,LING,110,W02,OFF,3.0,Introduction to Grammar ,WEB,,TBA,80,31,Jeffrey   Klassen (P),27-Jun18-Jul,NA NO_ROOM,Distance Education UnitHumanities Program TypeOff Campus Student FeesTuition - Category 1Class Is Offered On-Line Only
+ ,61003,LING,111,W02,OFF,3.0,Structure of Language ,WEB,,TBA,70,16,Eleonora   Usenkova (P),27-Jun18-Jul,NA NO_ROOM,Distance Education UnitOff Campus Student FeesSocial Sciences Program TypeTuition - Category 1Class Is Offered On-Line Only
+ ,60407,XMBA,000,01,SK,0.0,MBA Part time Enrolment ,XNA,,TBA,50,42,TBA,27-Jun13-Aug,TBA,No Academic CreditOff Campus Student FeesNo Tuition Assessed
+ ,61005,XMED,003,01,SK,1.0,Clinical ReorientationDepartmental Approval Required,XNA,,TBA,5,0,TBA,27-Jun13-Aug,NA NO_ROOM,No Academic CreditOn Campus Student FeesExclude from T2202A ProcessingNo Tuition Assessed
+ ,60406,MBA,828,01,SK,3.0,Tactical StrategyDepartmental Approval Required,LEC,MWR,05:00 pm- 08:50 pm,48,15,Vincent A  Bruni-Bossio (P),15-Jul01-Aug,ESB 243,Uses Blackboard Web ToolsOn Campus Student FeesTuition - MBA General
+ , , , , , , , ,LEC,S,09:00 am- 04:20 pm, , ,Vincent A  Bruni-Bossio (P),27-Jul27-Jul,ESB 243, 
+ ,60776,MBA,830,01,SK,3.0,Operations Management ,LEC,MWR,03:00 pm- 06:50 pm,48,5,Keith A  Willoughby (P),17-Jun04-Jul,ESB 243,Audit Allowed with PermissionUses Blackboard Web ToolsOn Campus Student FeesTuition - MBA General
+ , , , , , , , ,LEC,S,09:00 am- 04:20 pm, , ,Keith A  Willoughby (P),29-Jun29-Jun,ESB 243, 
+ ,60527,MBA,889,01,SK,3.0,Integrative ModulesDepartmental Approval Required,LEC,TRF,03:00 pm- 06:50 pm,48,15,Vernon G  Bachiu (P),06-Aug09-Aug,ESB 243,Uses Blackboard Web ToolsOn Campus Student FeesNo Tuition Assessed
+ ,60963,MPAC,823,02,SK,3.0,Financial Reporting II ,LEC,,TBA,45,8,Michael K  Hernik (P),24-Jun26-Jul,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate Studies
+ ,60964,MPAC,823,04,SK,3.0,Financial Reporting II ,LEC,,TBA,45,6,Michael K  Hernik (P),24-Jun26-Jul,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate Studies
+ ,60746,MPAC,825,02,SK,3.0,Assurance II ,LEC,,TBA,45,8,Douglas K  Kalesnikoff (P),10-Jul09-Aug,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate StudiesExam Date TBA by Instructor
+ ,60747,MPAC,825,04,SK,3.0,Assurance II ,LEC,,TBA,45,6,Douglas K  Kalesnikoff (P),10-Jul09-Aug,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate StudiesExam Date TBA by Instructor
+ ,61034,MPAC,833,02,SK,4.0,Financial Reporting and Analysis ,LEC,,TBA,45,11,Kai   Bauman (P),13-Jun26-Jul,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate StudiesExam Date TBA by Instructor
+ ,61035,MPAC,833,04,SK,4.0,Financial Reporting and Analysis ,LEC,,TBA,45,10,Kai   Bauman (P),13-Jun26-Jul,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate StudiesExam Date TBA by Instructor
+ ,61036,MPAC,835,02,SK,3.0,Assurance ,LEC,,TBA,45,11,Chris D  Burnley (P),19-Jun16-Jul,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate StudiesExam Date TBA by Instructor
+ ,61037,MPAC,835,04,SK,3.0,Assurance ,LEC,,TBA,45,10,Chris D  Burnley (P),19-Jun16-Jul,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate StudiesExam Date TBA by Instructor
+ ,61038,MPAC,837,02,SK,3.0,Advanced Finance ,LEC,,TBA,45,11,Ganesh   Vaidyanathan (P),22-Jul16-Aug,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate StudiesExam Date TBA by Instructor
+ ,61039,MPAC,837,04,SK,3.0,Advanced Finance ,LEC,,TBA,45,11,Ganesh   Vaidyanathan (P),22-Jul16-Aug,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate StudiesExam Date TBA by Instructor
+ ,60965,MPAC,892,02,SK,3.0,Integrative Capstone 2 ,LEC,,TBA,45,8,Erica L  Smith (P),29-Jul16-Aug,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate Studies
+ ,60966,MPAC,892,04,SK,3.0,Integrative Capstone 2 ,LEC,,TBA,45,6,Erica L  Smith (P),29-Jul16-Aug,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate Studies
+ ,60729,MPAC,992,02,SK,3.0,Introduction to Accounting Research ,SSI,,TBA,45,11,Suresh S  Kalagnanam (P),19-Jul13-Aug,NA NO_ROOM,Uses Blackboard Web ToolsOn Campus Student FeesFee - Graduate Studies
+ ,60731,MPAC,992,04,SK,3.0,Introduction to Accounting Research ,SSI,,TBA,45,12,Suresh S  Kalagnanam (P),19-Jul13-Aug,NA NO_ROOM,On Campus Student FeesFee - Graduate Studies
+ ,60557,MATH,102,02,SK,3.0,Precalculus Mathematics ,LEC,MTWRF,04:00 pm- 05:20 pm,60,28,Lawrence H  Chang (P),27-Jun13-Aug,ARTS 108,Arts and Sci No Program TypeAudit Allowed with PermissionOn Campus Student FeesTuition - Category 8
+ , , , , , , , ,LAB,MWF,05:30 pm- 06:20 pm, , ,Lawrence H  Chang (P),27-Jun13-Aug,ARTS 108, 
+ ,60868,MATH,102,W02,OFF,3.0,Precalculus Mathematics ,WEB,,TBA,75,54,Stavros G  Stavrou (P),17-Jul28-Aug,NA NO_ROOM,Arts and Sci No Program TypeDistance Education UnitOff Campus Student FeesTuition - Category 8Class Is Offered On-Line Only
+ ,61029,MATH,104,W02,OFF,3.0,Elementary Calculus ,WEB,,TBA,95,45,Stavros G  Stavrou (P),27-Jun13-Aug,NA NO_ROOM,Audit Allowed with PermissionDistance Education UnitOff Campus Student FeesScience Program TypeTuition - Category 8Class Is Offered On-Line Only
+ ,60041,MATH,110*,02,SK,3.0,Calculus I ,LEC,MTWRF,08:30 am- 10:50 am,100,71,Mikelis G  Bickis (P),27-Jun18-Jul,ARTS 133,Audit Allowed with PermissionOn Campus Student FeesScience Program TypeTuition - Category 8
+ , , , , , , , ,LAB,MTWRF,11:00 am- 11:50 am, , ,Mikelis G  Bickis (P),27-Jun18-Jul,ARTS 263, 
+ ,61010,MATH,110*,W02,OFF,3.0,Calculus I ,WEB,,TBA,95,48,Stavros G  Stavrou (P),17-Jul28-Aug,NA NO_ROOM,Audit Allowed with PermissionDistance Education UnitOff Campus Student FeesScience Program TypeTuition - Category 8Class Is Offered On-Line Only
+ ,60046,MATH,116*,04,SK,3.0,Calculus II ,LEC,MTWRF,08:30 am- 10:50 am,50,5,Qingde   Yang (P),23-Jul13-Aug,ARTS 108,Audit Allowed with PermissionOn Campus Student FeesScience Program TypeTuition - Category 8
+ , , , , , , , ,LAB,MTWRF,11:00 am- 11:50 am, , ,Qingde   Yang (P),23-Jul13-Aug,ARTS 108, 
+ ,61020,MATH,164,02,SK,3.0,Introduction to Linear Algebra ,LEC,MTWRF,08:30 am- 10:50 am,100,71,Izabela   Vlahu (P),27-Jun13-Aug,ARTS 263,On Campus Student FeesScience Program TypeTuition - Category 8
+ , , , , , , , ,LAB,MWF,11:00 am- 11:50 am, , ,Izabela   Vlahu (P),27-Jun13-Aug,ARTS 102, 
+ ,60338,MATH,224*,02,SK,3.0,Calculus IV for Engineers ,LEC,MTWRF,08:30 am- 09:50 am,100,31,Mohamad S  Alwan (P),27-Jun13-Aug,ARTS 102,Audit Allowed with PermissionOn Campus Student FeesScience Program TypeTuition - Category 8
+ , , , , , , , ,LAB,MTWRF,10:00 am- 10:50 am, , ,Mohamad S  Alwan (P),27-Jun13-Aug,ARTS 102, 
+ ,60049,MATH,258*,02,SK,3.0,Euclidean Geometry ,LEC,MTWRF,11:00 am- 12:20 pm,60,38,Stavros G  Stavrou (P),27-Jun13-Aug,ARTS 109,On Campus Student FeesScience Program TypeTuition - Category 8
+ ,60052,MATH,363*,02,SK,3.0,Abstract Algebra ,LEC,MTWRF,01:30 pm- 03:50 pm,50,8,Fatemeh   Bagherzadeh Golmakani (P),23-Jul13-Aug,ARTS 206,On Campus Student FeesScience Program TypeTuition - Category 8
+ ,61100,ME,898,0,SK,3.0,Optimization TechniqueDepartmental Approval Required,LEC,MWF,03:00 pm- 04:50 pm,20,5,Chris J  Zhang (P),01-Jul31-Aug,AGRI 1E79,On Campus Student FeesFee - Graduate Studies
+ ,60922,MEDC,111,01,SK,0.0,Success in Medical School I ,LEC,WRF,08:30 am- 04:20 pm,105,105,TBA,01-Jun03-Jun,TBA,No Academic CreditOn Campus Student FeesNo Tuition Assessed
+ ,60923,MEDC,211,01,SK,0.0,Success in Medical School II ,LEC,F,08:30 am- 04:20 pm,100,100,TBA,01-Jun03-Jun,TBA,No Academic CreditOn Campus Student FeesNo Tuition Assessed
+ ,60924,MEDC,211,R01,RG,0.0,Success in Medical School II ,LEC,,TBA,100,100,TBA,01-Jun12-Jun,TBA,No Academic CreditOff Campus Student FeesNo Tuition Assessed
+ ,60991,MEDC,306,01,OFF,50.0,Saskatchewan Longitudinal Integrated Clerkship SLIC ,CL,,TBA,15,14,Tara S  Lee (P),27-Jun13-Aug,ESTV ,Off Campus Student FeesNo Tuition Assessed
+ ,60992,MEDC,306,02,OFF,50.0,Saskatchewan Longitudinal Integrated Clerkship SLIC ,CL,,TBA,15,13,Tara S  Lee (P),27-Jun13-Aug,MEAD ,Off Campus Student FeesNo Tuition Assessed
+ ,60914,MEDC,311,01,SK,0.0,Success in Medical School Clerkship III ,LEC,M,08:30 am- 04:50 pm,65,0,Schaana M  Van De Kamp (P),29-Jul29-Jul,HLTH GB06,No Academic CreditOn Campus Student FeesNo Tuition Assessed
+ , , , , , , , ,CL,TW,08:30 am- 04:50 pm, , ,Schaana M  Van De Kamp (P),30-Jul31-Jul,HLTH 2200, 
+ , , , , , , , ,LEC,R,08:00 am- 04:50 pm, , ,Schaana M  Van De Kamp (P),01-Aug01-Aug,HLTH 1B03, 
+ , , , , , , , ,CL,TW,08:30 am- 03:20 pm, , ,Schaana M  Van De Kamp (P),06-Aug07-Aug,HLTH 2200, 
+ , , , , , , , ,LEC,TW,03:30 pm- 04:50 pm, , ,Schaana M  Van De Kamp (P),06-Aug07-Aug,HLTH 1B11, 
+ , , , , , , , ,LEC,R,08:30 am- 11:20 am, , ,Schaana M  Van De Kamp (P),08-Aug08-Aug,HLTH GB06, 
+ ,60915,MEDC,311,R01,RG,0.0,Success in Medical School Clerkship III ,LEC,M,08:30 am- 04:20 pm,40,5,Schaana M  Van De Kamp (P),27-Jun13-Aug,TBA,No Academic CreditOff Campus Student FeesNo Tuition Assessed
+ , , , , , , , ,LEC,TW,09:00 am- 02:50 pm, , ,Schaana M  Van De Kamp (P),27-Jun13-Aug,TBA, 
+ , , , , , , , ,LEC,TW,09:00 am- 03:50 pm, , ,Schaana M  Van De Kamp (P),27-Jun13-Aug,TBA, 
+ , , , , , , , ,LEC,TW,03:00 pm- 04:20 pm, , ,Schaana M  Van De Kamp (P),27-Jun13-Aug,TBA, 
+ , , , , , , , ,LEC,R,08:30 am- 04:20 pm, , ,Schaana M  Van De Kamp (P),27-Jun13-Aug,TBA, 
+ , , , , , , , ,LEC,R,08:30 am- 11:20 am, , ,Schaana M  Van De Kamp (P),27-Jun13-Aug,TBA, 
+ ,60549,MUS,101,W02,OFF,3.0,Fundamentals of Music ,WEB,,TBA,165,24,Allison B  Fairbairn (P), Alex J  Loewen ,27-Jun13-Aug,TBA,Distance Education UnitFine Arts Program TypeOff Campus Student FeesTuition - Category 1Class Is Offered On-Line OnlyExam Date TBA by Instructor
+ ,60552,MUS,111,W02,OFF,3.0,History of Popular Music ,WEB,,TBA,100,17,Allison B  Fairbairn (P), Alex J  Loewen ,27-Jun13-Aug,TBA,Distance Education UnitFine Arts Program TypeOff Campus Student FeesTuition - Category 1Class Is Offered On-Line OnlyExam Date TBA by Instructor
+ ,60657,NURS,203*,N12,SK,3.0,Assessment and Components of Care II ,LEC,MTR,01:30 pm- 04:20 pm,61,8,Anna O  Power-Horlick (P),17-Jun20-Jun,HLTH GB10,On Campus Student FeesTuition - Category 9
+ , , , , , , , ,LEC,MWR,01:30 pm- 04:20 pm, , ,Anna O  Power-Horlick (P),24-Jun27-Jun,HLTH GB03, 
+ , , , , , , , ,LEC,TRF,01:30 pm- 04:20 pm, , ,Anna O  Power-Horlick (P),02-Jul05-Jul,HLTH GB03, 
+ , , , , , , , ,LEC,MTR,01:30 pm- 04:20 pm, , ,Anna O  Power-Horlick (P),08-Jul11-Jul,HLTH GB03, 
+ , , , , , , , ,LEC,M,01:30 pm- 04:20 pm, , ,Anna O  Power-Horlick (P),15-Jul15-Jul,HLTH B450, 
+ ,60658,NURS,203,L01,SK,0.0,Assessment and Components of Care IIDepartmental Approval Required,LAB,W,08:00 am- 11:50 am,9,2,Shasha A  Abdulnour (P),19-JUN19-JUN,HLTH 2200,No Academic CreditOn Campus Student FeesNo Tuition Assessed
+ ,60755,NURS,203,L02,SK,0.0,Assessment and Components of Care IIDepartmental Approval Required,LAB,W,08:00 am- 11:50 am,9,2,Kira   Klitch (P),19-JUN19-JUN,HLTH 2200,No Academic CreditOn Campus Student FeesNo Tuition Assessed
+ ,60756,NURS,203,L03,SK,0.0,Assessment and Components of Care IIDepartmental Approval Required,LAB,W,08:00 am- 11:50 am,9,0,Dawna N  Fletcher-Tung (P),19-JUN19-JUN,HLTH 2200,No Academic CreditOn Campus Student FeesNo Tuition Assessed
+ ,60757,NURS,203,L04,SK,0.0,Assessment and Components of Care IIDepartmental Approval Required,LAB,W,08:00 am- 11:50 am,9,3,Alicia W  Middlebrook (P),19-JUN19-JUN,HLTH 2200,No Academic CreditOn Campus Student FeesNo Tuition Assessed
+ ,60758,NURS,203,L05,SK,0.0,Assessment and Components of Care IIDepartmental Approval Required,LAB,W,08:00 am- 11:50 am,9,1,Sharon L  Avey (P),19-JUN19-JUN,HLTH 2200,No Academic CreditOn Campus Student FeesNo Tuition Assessed
+ ,60759,NURS,203,L06,SK,0.0,Assessment and Components of Care IIDepartmental Approval Required,LAB,W,08:00 am- 11:50 am,8,0,Kelsey J  Derkach (P),19-JUN19-JUN,HLTH 2200,No Academic CreditOn Campus Student FeesNo Tuition Assessed
+ ,60760,NURS,203,L07,SK,0.0,Assessment and Components of Care IIDepartmental Approval Required,LAB,W,08:00 am- 11:50 am,8,0,Tish M  King (P),19-JUN19-JUN,HLTH 2200,No Academic CreditOn Campus Student FeesNo Tuition Assessed
+ ,60656,NURS,205*,N12,SK,3.0,Research for Evidence Informed Practice ,LEC,MTRF,10:30 am- 12:20 pm,60,31,Louise   Racine (P),17-Jun21-Jun,HLTH GB10,On Campus Student FeesTuition - Category 9
+ , , , , , , , ,LEC,MWRF,10:30 am- 12:20 pm, , ,Louise   Racine (P),24-Jun28-Jun,HLTH GB03, 
+ , , , , , , , ,LEC,F,01:30 pm- 03:20 pm, , ,Louise   Racine (P),28-Jun28-Jun,HLTH GB03, 
+ , , , , , , , ,LEC,MTRF,10:30 am- 12:20 pm, , ,Louise   Racine (P),02-Jul12-Jul,ARTS 100, 
+ , , , , , , , ,LEC,M,10:30 am- 12:20 pm, , ,Louise   Racine (P),15-Jul15-Jul,HLTH 1130, 
+ , , , , , , , ,LEC,T,01:00 pm- 02:50 pm, , ,Louise   Racine (P),16-Jul16-Jul,HLTH GB03, 
+ , , , , , , , ,LEC,R,10:30 am- 12:20 pm, , ,Louise   Racine (P),18-Jul18-Jul,HLTH GB03, 
+ ,60895,NURS,220*,N12,SK,3.0,Concepts of Patient and Family Centered Care ,LEC,MTW,09:00 am- 10:50 am,60,6,Cheryl A  Cummings (P),29-Jul31-Jul,HLTH B450,On Campus Student FeesTuition - Category 9
+ , , , , , , , ,LEC,MTW,12:00 pm- 01:50 pm, , ,Cheryl A  Cummings (P),29-Jul31-Jul,HLTH B450, 
+ , , , , , , , ,LEC,R,01:00 pm- 03:20 pm, , ,Cheryl A  Cummings (P),01-Aug01-Aug,HLTH B450, 
+ , , , , , , , ,LEC,TW,09:00 am- 11:20 am, , ,Cheryl A  Cummings (P),06-Aug07-Aug,HLTH B450, 
+ , , , , , , , ,LEC,T,12:30 pm- 02:50 pm, , ,Cheryl A  Cummings (P),06-Aug06-Aug,HLTH B450, 
+ , , , , , , , ,LEC,W,12:30 pm- 02:20 pm, , ,Cheryl A  Cummings (P),07-Aug07-Aug,HLTH B450, 
+ , , , , , , , ,LEC,F,01:00 pm- 01:50 pm, , ,Cheryl A  Cummings (P),09-Aug09-Aug,HLTH B450, 
+ , , , , , , , ,LEC,T,09:00 am- 11:20 am, , ,Cheryl A  Cummings (P),13-Aug13-Aug,HLTH B450, 
+ , , , , , , , ,LEC,T,12:30 pm- 02:50 pm, , ,Cheryl A  Cummings (P),13-Aug13-Aug,HLTH B450, 
+ , , , , , , , ,LEC,WR,01:00 pm- 04:20 pm, , ,Cheryl A  Cummings (P),14-Aug15-Aug,HLTH B450, 
+ , , , , , , , ,LEC,M,01:00 pm- 02:50 pm, , ,Cheryl A  Cummings (P),19-Aug19-Aug,HLTH B450, 
+ ,60896,NURS,220,L01,SK,0.0,Concepts of Patient and Family Centered Care ,LAB,RF,09:00 am- 11:50 am,60,6,Cheryl A  Cummings (P),01-AUG02-AUG,HLTH 2200,No Academic CreditOn Campus Student FeesNo Tuition Assessed
+ ,61136,NURS,221*,N02,OFF,3.0,Patient and Family Centered Care in Clinical PracticeDepartmental Approval Required,CL,,TBA,1,0,Tania R  Bergen (P),27-Aug30-Aug,NA NO_ROOM,Off Campus Student FeesNo Tuition Assessed
+ ,61137,NURS,221,L02,SK,0.0,Patient and Family Centered Care in Clinical Practice ,LAB,,TBA,1,0,Tania R  Bergen (P),27-AUG30-AUG,NA NO_ROOM,No Academic CreditNo Tuition Assessed
+ ,61033,NURS,221*,N22,RG,3.0,Patient and Family Centered Care in Clinical PracticeDepartmental Approval Required,CL,,TBA,18,12,Gerri C  Lasiuk (P), Charlene D  Bunce , Lindsay L  Dahl , Arnold   Esguerra , Liz A  Ferozedin , Jennifer M  Modderman ,24-Jun09-Aug,TBA,Off Campus Student FeesTuition - Category 9
+ ,61114,NURS,221,L01,RG,0.0,Patient and Family Centered Care in Clinical Practice ,LAB,,TBA,18,12,Patience A  Asiamah (P), Tim J  Austin , Lori N  Boen , Suzanne E  Cooke , Cheryl A  Cummings , Mel H  Cunningham , Donna M  Geiger , Brenda M  Hantke , Danny E  Lavertu , Sarah M  McKay , Jessica E  Niyongabo , Laurie J  Schwarz , Andrea M  Staples , Janelle A  Stewart , Graham E  Stobbs , Janice M  Walker , Stephanie T  Walls , Heather L  Wolch , Melissa H  Wright ,24-JUN09-AUG,TBA,No Academic CreditOff Campus Student FeesNo Tuition Assessed
+ ,60696,NURS,331*,N12,SK,3.0,Maternal Child and Adolescent Family Centered Nursing Practice ,CL,,TBA,55,10,Angela   Bowen (P), Erin K  Graham , Jill C  Zdunich ,15-Jul30-Aug,TBA,Off Campus Student FeesTuition - Category 9
+ ,61115,NURS,331,L01,SK,0.0,Maternal Child and Adolescent Family Centered Nursing Practice ,LAB,,TBA,55,11,Megan S  Alberts (P), Faith A  Bae , Melanie L  Bonilla , Michelle L  Breker , Kelsey J  Derkach , Alexa L  Dowden , Ray Y  Gabriel , Regine E  Gerow-Scissons , Erin K  Graham , Sarah R  Hooyenga , Tenneyl D  Menke , Michelle D  Patterson , Jill C  Zdunich ,15-JUL30-AUG,TBA,No Academic CreditOff Campus Student FeesNo Tuition Assessed
+ ,61092,NURS,478,N01,SK,3.0,Rural NursingDepartmental Approval Required,IND,,TBA,60,11,Pammla M  Petrucka (P),08-Jul16-Aug,TBA,Audit Not AllowedOff Campus Student FeesTuition - Category 9
+ ,60750,NUTR,366*,01,OFF,3.0,Food Service Management Practicum ,PRA,,TBA,10,9,Carol J  Henry (P), Tracy L  Everitt ,27-Jun18-Jul,NA NO_ROOM,Off Campus Student FeesTuition - Category 11
+ ,60751,NUTR,366*,02,OFF,3.0,Food Service Management Practicum ,PRA,,TBA,10,4,Carol J  Henry (P), Tracy L  Everitt ,23-Jul13-Aug,NA NO_ROOM,Off Campus Student FeesTuition - Category 11
+ ,61046,PHAR,185,05,SK,4.0,Experiential Learning Introductory Community Pharmacy Practice Experience ,CL,,TBA,50,45,Shauna L  Gerwing (P),02-Jul26-Jul,NA NO_ROOM,On Campus Student FeesTuition - Category 5
+ ,61048,PHAR,185,06,SK,4.0,Experiential Learning Introductory Community Pharmacy Practice Experience ,CL,,TBA,50,36,Shauna L  Gerwing (P),29-Jul23-Aug,NA NO_ROOM,On Campus Student FeesTuition - Category 5
+ ,61047,PHAR,185,U05,OFF,4.0,Experiential Learning Introductory Community Pharmacy Practice Experience ,CL,,TBA,50,47,Shauna L  Gerwing (P),02-Jul26-Jul,NA NO_ROOM,Off Campus Student FeesTuition - Category 5
+ ,61049,PHAR,185,U06,OFF,4.0,Experiential Learning Introductory Community Pharmacy Practice Experience ,CL,,TBA,50,37,Shauna L  Gerwing (P),29-Jul23-Aug,NA NO_ROOM,Off Campus Student FeesTuition - Category 5
+ ,60655,PHAR,250,N12,SK,3.0,Pharmacology for Nursing ,LEC,MTRF,08:30 am- 10:20 am,60,10,Courtney D  Quiring (P),17-Jun21-Jun,HLTH GB10,On Campus Student FeesTuition - Category 5
+ , , , , , , , ,LEC,F,01:30 pm- 03:20 pm, , ,Courtney D  Quiring (P),21-Jun21-Jun,HLTH GB10, 
+ , , , , , , , ,LEC,MWRF,08:30 am- 10:20 am, , ,Courtney D  Quiring (P),24-Jun28-Jun,HLTH GB03, 
+ , , , , , , , ,LEC,MTRF,08:30 am- 10:20 am, , ,Courtney D  Quiring (P),02-Jul12-Jul,ARTS 100, 
+ , , , , , , , ,LEC,F,01:30 pm- 03:20 pm, , ,Courtney D  Quiring (P),12-Jul12-Jul,HLTH GB03, 
+ , , , , , , , ,LEC,M,08:30 am- 10:20 am, , ,Courtney D  Quiring (P),15-Jul15-Jul,HLTH 1B11, 
+ , , , , , , , ,LEC,R,08:30 am- 10:20 am, , ,Courtney D  Quiring (P),18-Jul18-Jul,HLTH GB03, 
+ ,61052,PHAR,285,01,SK,4.0,Experiential Learning Hospital Pharmacy Practice Experience ,CL,,TBA,50,40,Shauna L  Gerwing (P),02-Jul26-Jul,NA NO_ROOM,On Campus Student FeesTuition - Category 5
+ ,61054,PHAR,285,02,SK,4.0,Experiential Learning Hospital Pharmacy Practice Experience ,CL,,TBA,50,40,Shauna L  Gerwing (P),29-Jul23-Aug,NA NO_ROOM,On Campus Student FeesTuition - Category 5
+ ,61053,PHAR,285,U01,OFF,4.0,Experiential Learning Hospital Pharmacy Practice Experience ,CL,,TBA,50,35,Shauna L  Gerwing (P),02-Jul26-Jul,NA NO_ROOM,Off Campus Student FeesTuition - Category 5
+ ,61055,PHAR,285,U02,OFF,4.0,Experiential Learning Hospital Pharmacy Practice Experience ,CL,,TBA,50,34,Shauna L  Gerwing (P),29-Jul23-Aug,NA NO_ROOM,Off Campus Student FeesTuition - Category 5
+ ,60036,PHAR,480*,03,SK,4.0,Structured Practical Experience III ,CL,,TBA,50,49,TBA,02-Jul26-Jul,NA NO_ROOM,On Campus Student FeesTuition - Category 5
+ ,60037,PHAR,480*,04,SK,4.0,Structured Practical Experience III ,CL,,TBA,50,49,TBA,29-Jul23-Aug,NA NO_ROOM,On Campus Student FeesTuition - Category 5
+ ,60038,PHAR,480*,U03,OFF,4.0,Structured Practical Experience III ,CL,,TBA,50,40,TBA,02-Jul26-Jul,NA NO_ROOM,Off Campus Student FeesTuition - Category 5
+ ,60039,PHAR,480*,U04,OFF,4.0,Structured Practical Experience III ,CL,,TBA,50,39,TBA,29-Jul23-Aug,NA NO_ROOM,Off Campus Student FeesTuition - Category 5
+ ,60950,PHIL,236*,02,SK,3.0,Ethics and Technology ,LEC,MTWRF,11:00 am- 01:20 pm,50,7,William J  Buschert (P),27-Jun18-Jul,ARTS 106,Humanities Program TypeOn Campus Student FeesTuition - Category 1
+ ,60403,PTH,855,01,SK,1.0,Case Integration III ,SEM,M,09:00 am- 09:50 am,42,5,Stephanie J  Madill (P),08-Jul12-Jul,HLTH 3450,On Campus Student FeesTuition - MPT Regular
+ , , , , , , , ,SEM,M,10:00 am- 04:20 pm, , ,Stephanie J  Madill (P),08-Jul12-Jul,HLTH 1B11, 
+ , , , , , , , ,SEM,T,09:00 am- 03:20 pm, , ,Stephanie J  Madill (P),08-Jul12-Jul,HLTH GB06, 
+ , , , , , , , ,SEM,W,09:00 am- 03:20 pm, , ,Stephanie J  Madill (P),08-Jul12-Jul,HLTH 3450, 
+ , , , , , , , ,SEM,R,09:00 am- 04:20 pm, , ,Stephanie J  Madill (P),08-Jul12-Jul,HLTH 1B11, 
+ , , , , , , , ,SEM,F,09:00 am- 10:50 am, , ,Stephanie J  Madill (P),08-Jul12-Jul,HLTH 1B11, 
+ , , , , , , , ,SEM,F,11:00 am- 02:20 pm, , ,Stephanie J  Madill (P),08-Jul12-Jul,HLTH 3450, 
+ ,61124,PTH,856,01,SK,15.0,Clinical Practice IV ,CL,MTWRF,TBA,1,0,Peggy L  Proctor (P), Cathy E  Cuddington ,29-Jul30-Aug,NA NO_ROOM,On Campus Student FeesTuition - MPT Regular
+ ,61125,PHYS,891,06,SK,3.0,Selected Topics in Condensed Matter PhysicsDepartmental Approval Required,RDG,,TBA,2,1,Kaori   Tanaka (P),27-Jun13-Aug,TBA,Fee - Graduate Studies
+ ,61099,PHYS,897,05,SK,3.0,Space Mission DesignDepartmental Approval Required,RDG,,TBA,10,5,Kathryn A  McWilliams (P),08-Jul23-Aug,TBA,On Campus Student FeesFee - Graduate Studies
+ ,60940,PHPY,304*,W02,OFF,3.0,Pharmacology I ,WEB,,TBA,150,111,Stan   Bardal (P),27-Jun13-Aug,TBA,Audit Allowed with PermissionDistance Education UnitOff Campus Student FeesScience Program TypeTuition - Category 8Class Is Offered On-Line Only
+ ,61002,PLSC,235*,W02,OFF,3.0,Urban Agriculture ,WEB,,TBA,40,1,Gordon P  Enns (P),27-Jun13-Aug,NA NO_ROOM,Distance Education UnitOff Campus Student FeesTuition - Category 13Class Is Offered On-Line Only
+ ,61066,POLS,111,E68,KA,3.0,Democratic Citizenship in Canada ,LEC,MTWRF,01:00 pm- 03:50 pm,25,13,Jason G  Zorbas (P),27-Jun18-Jul,NA ,Distance Education UnitOff Campus Student FeesSocial Sciences Program TypeNo Tuition Assessed
+ ,60739,POLS,205*,W02,OFF,3.0,Canadian Politics and Society ,WEB,,TBA,30,0,Jason G  Zorbas (P),27-Jun13-Aug,TBA,Distance Education UnitOff Campus Student FeesSocial Sciences Program TypeTuition - Category 1Class Is Offered On-Line Only
+ ,60740,POLS,323*,W02,OFF,3.0,First Nations Policies and Programs ,WEB,,TBA,30,11,Danette L  Starblanket (P),27-Jun13-Aug,TBA,Distance Education UnitOff Campus Student FeesSocial Sciences Program TypeTuition - Category 1Class Is Offered On-Line Only
+ ,60437,POLS,383*,02,SK,3.0,Career InternshipDepartmental Approval Required,IN3,,TBA,10,6,Joe   Garcea (P),27-Jun13-Aug,NA NO_ROOM,On Campus Student FeesSocial Sciences Program TypeTuition - Category 1
+ ,60438,POLS,384*,02,SK,3.0,Aboriginal Administrative InternshipDepartmental Approval Required,IN3,,TBA,10,10,Joe   Garcea (P),27-Jun13-Aug,NA NO_ROOM,On Campus Student FeesSocial Sciences Program TypeTuition - Category 1
+ ,61126,POLS,898,02,SK,3.0,Special TopicsDepartmental Approval Required,SEM,,TBA,1,0,Neil A  Hibbert (P),27-Jun13-Aug,TBA,On Campus Student FeesFee - Graduate Studies
+ ,60650,PSY,120,W02,OFF,3.0,Biological and Cognitive Bases of Psychology ,WEB,,TBA,140,52,Lee L  Sanders (P),27-Jun13-Aug,TBA,Distance Education UnitOff Campus Student FeesSocial Sciences Program TypeTuition - Category 8Class Is Offered On-Line Only
+ ,60597,PSY,121,W02,OFF,3.0,Social Clinical Cultural and Developmental Bases of Psychology ,WEB,,TBA,100,12,Jorden A  Cummings (P),27-Jun13-Aug,TBA,Distance Education UnitOff Campus Student FeesSocial Sciences Program TypeTuition - Category 8Class Is Offered On-Line Only
+ ,60703,PSY,214*,05,SK,3.0,Adolescent Development ,LEC,MTWRF,01:30 pm- 03:50 pm,50,19,Jim D  Cresswell (P),27-Jun18-Jul,ARTS 109,On Campus Student FeesSocial Sciences Program TypeTuition - Category 8
+ ,60900,PSY,223*,W02,OFF,3.0,Abnormal Psychology ,WEB,,TBA,150,25,Jorden A  Cummings (P),27-Jun13-Aug,TBA,Distance Education UnitOff Campus Student FeesSocial Sciences Program TypeTuition - Category 8Class Is Offered On-Line Only
+ ,60333,PSY,226*,02,SK,3.0,Individual Processes in Social Psychology ,LEC,MTWRF,11:00 am- 01:20 pm,40,2,Alexandra M  Zidenberg (P),23-Jul13-Aug,ARTS 106,On Campus Student FeesSocial Sciences Program TypeTuition - Category 8
+ ,60644,PSY,235*,03,SK,3.0,Research Methods and Design ,LEC,MTWRF,11:00 am- 01:20 pm,50,4,Martin W  Rempel (P),27-Jun18-Jul,ARTS 101,On Campus Student FeesSocial Sciences Program TypeTuition - Category 8
+ ,60645,PSY,235,L03,SK,0.0,Research Methods and Design ,LAB,MTWRF,01:30 pm- 03:20 pm,50,4,Martin W  Rempel (P),27-JUN18-JUL,ARTS 108,No Academic CreditOn Campus Student FeesSocial Sciences Program TypeNo Tuition Assessed
+ ,60647,PSY,243*,03,SK,3.0,Evolutionary Psychology ,LEC,MTWRF,08:30 am- 10:50 am,25,11,Natalie L  Dinsdale (P),23-Jul13-Aug,ARTS 207,On Campus Student FeesSocial Sciences Program TypeTuition - Category 8
+ ,60866,PSY,260*,01,SK,3.0,Health Psychology ,LEC,MTWRF,01:30 pm- 03:50 pm,40,10,Stacey A  McHenry (P),27-Jun18-Jul,ARTS 153,On Campus Student FeesSocial Sciences Program TypeTuition - Category 8
+ ,61070,VSAC,835,1,SK,3.0,Small Animal Emergency Medicine ,LEC,MTWRF,TBA,20,11,Cindy L  Shmon (P), Adrien G  Aertsens , Barbara   Ambros , Tony P  Carr , Kevin L  Cosford , Melanie D  Craven , Trisha M  Dowling , Tanya   Duke , Kathy A  Linn , Valerie S  MacDonald Dickinson , Tammy J  Owens , Dennilyn L  Parker , Lynne S  Sandmeyer , Dani M  Zwueste ,27-Jun13-Aug,TBA,On Campus Student FeesFee - Graduate Studies
+ ,60702,VSAC,980,04,SK,15.0,Clinical Practice ,CL,,TBA,15,0,TBA,27-Jun13-Aug,TBA,No Academic CreditOn Campus Student FeesNo Tuition Assessed
+ ,60434,SOC,112,02,SK,3.0,Foundations in Sociology Social Construction of Everyday Life ,LEC,MTWRF,11:00 am- 01:20 pm,80,7,Bryan B  Puk (P),27-Jun18-Jul,ARTS 211,On Campus Student FeesSocial Sciences Program TypeTuition - Category 1
+ ,60799,SOC,233*,02,SK,3.0,Introduction to Sociological Theory ,LEC,MTWRF,11:00 am- 01:20 pm,50,27,Susan M  Robertson (P),23-Jul13-Aug,ARTS 206,On Campus Student FeesSocial Sciences Program TypeTuition - Category 1
+ ,60651,SOC,233*,W02,OFF,3.0,Introduction to Sociological Theory ,WEB,,TBA,41,9,Susan M  Robertson (P),27-Jun13-Aug,TBA,Distance Education UnitOff Campus Student FeesSocial Sciences Program TypeTuition - Category 1Class Is Offered On-Line Only
+ ,60737,SOC,309*,W02,OFF,3.0,Theories of Social Change ,WEB,,TBA,40,20,Susan M  Robertson (P),27-Jun13-Aug,TBA,Distance Education UnitOff Campus Student FeesSocial Sciences Program TypeTuition - Category 1Class Is Offered On-Line Only
+ ,61004,SOC,329*,W02,OFF,3.0,Penology and Corrections ,WEB,,TBA,50,16,Nancy M  Poon (P),27-Jun13-Aug,NA NO_ROOM,Distance Education UnitOff Campus Student FeesSocial Sciences Program TypeTuition - Category 1Class Is Offered On-Line Only
+ ,60019,STAT,245*,02,SK,3.0,Introduction to Statistical Methods ,LEC,MTWRF,11:00 am- 12:20 pm,50,25,Osama M  Bataineh (P),27-Jun13-Aug,ARTS 217,On Campus Student FeesScience Program TypeTuition - Category 8
+ , , , , , , , ,LAB,TWR,12:30 pm- 01:20 pm, , ,Osama M  Bataineh (P),27-Jun13-Aug,ARTS 217, 
+ ,60841,VINT,580,07,OFF,32.0,Applied Veterinary Medicine ,CL,,TBA,70,45,TBA,27-Jun13-Aug,TBA,Audit Not AllowedA Multi-term CourseOff Campus Student FeesNo Tuition Assessed
+ ,60842,VINT,580,08,SK,32.0,Applied Veterinary Medicine ,CL,,TBA,60,50,TBA,27-Jun13-Aug,TBA,Audit Not AllowedA Multi-term CourseOn Campus Student FeesNo Tuition Assessed
+ ,61130,XVRS,005,02,SK,15.0,Mentored Research ,RES,,TBA,200,167,TBA,27-Jun13-Aug,TBA,No Academic CreditNo Tuition Assessed
+ ,60732,WGST,112,W02,OFF,3.0,Introduction to Womens and Gender Studies ,WEB,,TBA,50,8,Carrie L  Prefontaine (P),27-Jun13-Aug,TBA,Distance Education UnitHumanities Program TypeOff Campus Student FeesSocial Sciences Program TypeTuition - Category 1Class Is Offered On-Line Only
+ ,61018,WGST,210*,01,SK,3.0,Gendered Perspectives on Current Events ,LEC,MTWR,10:00 am- 12:20 pm,40,10,Marie I  Lovrod (P),23-Jul13-Aug,BIOL 122,Audit Allowed with PermissionUndergraduate researchHumanities Program TypeOn Campus Student FeesSocial Sciences Program TypeTuition - Category 1
+ ,60652,WGST,210*,W02,OFF,3.0,Gendered Perspectives on Current Events ,WEB,,TBA,80,20,Carrie L  Prefontaine (P),27-Jun13-Aug,TBA,Distance Education UnitHumanities Program TypeOff Campus Student FeesSocial Sciences Program TypeTuition - Category 1Class Is Offered On-Line Only

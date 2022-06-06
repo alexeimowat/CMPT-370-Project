@@ -1,0 +1,112 @@
+.mainProgramContainer {
+  width: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+.mainProgramContainer .programSearcherNavbar {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.mainProgramContainer .programSearcherNavbar button {
+  margin: auto 5px;
+  border: 2px solid #5d719a;
+  border-radius: 2px;
+  padding: 5px;
+  color: white;
+  font-size: 10pt;
+  font-family: "Montserrat", sans-serif;
+  background-color: #5d719a;
+  transition: 0.2s;
+}
+.mainProgramContainer .programSearcherNavbar button:hover, .mainProgramContainer .programSearcherNavbar button:focus {
+  background-color: #4e5f83;
+  border-color: #4e5f83;
+  cursor: pointer;
+}
+.mainProgramContainer .programSearcherNavbar button:active {
+  background-color: #4e5f83;
+  border-color: #4e5f83;
+}
+.mainProgramContainer .programSearcherNavbar .programLinks {
+  background-color: #508a4b;
+  border: #508a4b solid 1px;
+  border-radius: 5px;
+  padding: 5px 5px;
+}
+.mainProgramContainer .programSearcherNavbar .programLinks a {
+  color: white;
+  text-decoration: none;
+}
+.mainProgramContainer .programSearcherNavbar .programLinks:hover {
+  background-color: #40703c;
+  border: #40703c solid 1px;
+  transition: 400ms;
+  cursor: pointer;
+}
+.mainProgramContainer .programSearcherContainer {
+  flex-grow: 1;
+  padding: 0 10px;
+  justify-content: space-between;
+  overflow: auto;
+  background-color: #eceef3;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  outline: solid #c8cec9 1px;
+  box-shadow: 3px 3px 3px gray;
+}
+.mainProgramContainer .programSearcherContainer .fields {
+  min-width: 400px;
+}
+.mainProgramContainer .programSearcherContainer .searchAreaContent .searchAreaTitle {
+  font-size: 14pt;
+  font-weight: 600;
+  margin: 5px 0;
+}
+.mainProgramContainer .programSearcherContainer .searchAreaContent .searchFields {
+  margin: 15px 0;
+}
+.mainProgramContainer .programSearcherContainer .searchAreaContent .searchFields label {
+  margin: 10px 10px;
+  padding: 10px;
+  font-weight: 600;
+}
+.mainProgramContainer .programSearcherContainer .searchAreaContent .searchFields input {
+  margin: 10px 10px;
+  padding: 5px;
+  width: 50%;
+}
+.mainProgramContainer .programSearcherContainer .searchAreaContent .searchBtn {
+  background-color: #5d719a;
+  color: white;
+  border: #5d719a solid 1px;
+  border-radius: 5px;
+  padding: 5px 10px;
+  transition: 200ms;
+}
+.mainProgramContainer .programSearcherContainer .searchAreaContent .searchBtn:hover {
+  background-color: #4e5f83;
+  border-color: #4e5f83;
+  transition: 200ms;
+  cursor: pointer;
+}
+.mainProgramContainer .programSearcherContainer .searchAreaContent .inputRangeWrapper {
+  padding: 20px 10px;
+}
+.mainProgramContainer .programSearcherContainer .SearchFields {
+  max-height: 50px;
+  display: table;
+  width: 100%;
+}
+.mainProgramContainer .classSearchButton {
+  margin: auto 20px;
+  padding: 10px 20px;
+  font-size: 16pt;
+  flex-grow: 0;
+  border-radius: 3px;
+}
+
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,183 @@
+/*
+Style Sheet for the Class Search and Results Section of the main Interface
+ */
+
+.classSearcherContainer {
+
+  // Makes the searcher stay visible even on scroll!
+
+  /*  //Uncomment this later.
+  // Good but probably just in the way while getting other stuff working
+
+  position: -webkit-sticky;
+  position: sticky;
+  top: 5px;
+  */
+
+  background-color:  #dbdde1;
+  margin: 30px;
+  box-shadow: 3px 3px 3px gray;
+
+
+  .mainClassSearcherContent {
+    display: flex;
+    flex-direction: row;
+    max-height: 250px;
+
+    .searchContainer {
+
+      //margin: 10px;
+      flex-grow: 1;
+      padding: 0 10px;
+      //outline: black solid 1px;
+
+      justify-content: space-between;
+
+      overflow: auto;
+      background-color:  #dbdde1;
+
+      color: black;
+
+      display: flex;
+      flex-direction: row;
+
+      .fields { min-width: 400px }
+      .filter { }
+
+      .searchAreaContent {
+
+        .searchAreaTitle {
+          font-size: 14pt;
+          font-weight: 500;
+          margin: 5px 0;
+        }
+
+        h2 {
+          margin-top: 0;
+          margin-bottom: 0;
+        }
+
+        .classSearchField {
+
+          margin: 15px 0;
+          display: table-row;
+
+          label {
+            margin: 10px;
+            padding: 10px;
+            font-weight: bold;
+            display: table-cell;
+          }
+
+          input {
+            margin: 5px;
+            padding: 5px;
+            display: table-cell;
+            width: 50%;
+          }
+        }
+
+        .inputRangeWrapper {
+          padding: 20px 10px;
+        }
+      }
+
+      button {
+        background-color: #40619c;
+        border: #40619c 1px solid;
+        color: white;
+        padding: 5px 10px;
+        margin: auto 30px;
+        border-radius: 5px;
+        display: table-cell;
+        transition: 400ms;
+        height: max-content;
+
+        &:hover {
+          background-color: #304875;
+          border-color: #304875;
+          cursor: pointer;
+        }
+      }
+
+      .SearchFields {
+        max-height: 50px;
+        display: table;
+        width: 100%;
+      }
+    }
+
+    .classSearchButton {
+      margin: auto 20px;
+      padding: 10px 20px;
+      font-size: 16pt;
+      flex-grow: 0;
+      border-radius: 3px;
+    }
+  }
+
+  .eligibleScheduleEntryContainer {
+
+    width: auto;
+
+    display: flex;
+    flex-direction: row;
+
+    overflow-x: auto;
+    background-color:  #607cab;
+    padding: 10px;
+
+    .notFound {
+      color: white;
+      margin-left: 40%;
+    }
+
+    .quitButton {
+      background-color: #bd3030;
+      border: #bd3030 solid 1px;
+      border-radius: 5px;
+      color: white;
+
+      padding: 5px 10px;
+      transition: 200ms;
+      margin: 0 15px;
+
+      &:hover {
+        background-color: #a22828;
+        border-color: #a22828;
+        transition: 200ms;
+        cursor: pointer;
+      }
+    }
+  }
+}
+
+/*
+Style Sheet for the results of searching.
+ */
+
+.SearchResultsRow {
+
+  display: table-row;
+
+  .classClickable {
+    display: table-cell;
+    background-color: white;
+    padding: 5px;
+    outline: #e3e6ec 1px solid;
+    transition: 400ms;
+
+    &:hover {
+      background-color: #e3e6ec;
+      cursor: pointer;
+    }
+  }
+
+  p {
+    display: table-cell;
+    background-color: white;
+    padding: 5px;
+    outline: #e3e6ec 1px solid;
+  }
+
+}

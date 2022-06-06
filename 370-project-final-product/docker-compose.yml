@@ -1,0 +1,31 @@
+version: '3'
+
+services:
+  db:
+    image: postgres
+    environment:
+      POSTGRES_DB: "postgres"
+      POSTGRES_USER: "django"
+      POSTGRES_PASSWORD: "pass"
+      POSTGRES_HOST_AUTH_METHOD: "trust"
+  web:
+    build: ./newDjango
+    command: python3 manage.py runserver 0.0.0.0:8000
+    volumes:
+        - ./newDjango:/app/backend
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+  react:
+      build: './react'
+      command: 'npm start'
+      volumes:
+          - './react:/app/frontend'
+          - '/app/frontend/node_modules'
+      ports:
+        - '3000:3000'
+      environment:
+        - NODE_ENV=development
+      depends_on:
+          - web

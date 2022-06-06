@@ -1,0 +1,37 @@
+.scheduleContainer .mainTermContainer {
+  overflow-x: auto;
+  display: flex;
+  padding: 10px;
+}
+.scheduleContainer .mainTermContainer .termContainer {
+  margin: 0;
+}
+.scheduleContainer .mainTermContainer > *:not(:last-child) {
+  margin-right: 20px;
+}
+.scheduleContainer .flexWrapper {
+  padding: 0;
+  margin: 0;
+  min-width: 840px;
+}
+.scheduleContainer .addTermButton {
+  margin: auto auto auto 0;
+  border-radius: 5px;
+  border: 1px solid #419a49;
+  background-color: #419a49;
+  transition: 0.1s;
+  color: white;
+  font-size: 24pt;
+  white-space: nowrap;
+}
+.scheduleContainer .addTermButton:hover {
+  background-color: #398640;
+  border-color: #398640;
+  cursor: pointer;
+}
+.scheduleContainer .addTermButton:active, .scheduleContainer .addTermButton:focus {
+  background-color: #327638;
+  border-color: #327638;
+}
+
+/*# sourceMappingURL=index.css.map */

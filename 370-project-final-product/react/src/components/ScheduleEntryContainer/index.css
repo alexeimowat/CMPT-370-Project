@@ -1,0 +1,49 @@
+#ScheduleEntryContainer {
+  margin: 10px 30px 60px 30px;
+  outline: none;
+}
+#ScheduleEntryContainer .scheduleEntryButtons {
+  max-width: 900px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+#ScheduleEntryContainer .scheduleEntryButtons .newScheduleEntryButton {
+  margin: 10px;
+  border: 1px solid #4c9e5b;
+  border-radius: 2px;
+  padding: 5px;
+  font-size: 10pt;
+  font-family: "Montserrat", sans-serif;
+  background-color: #4c9e5b;
+  color: white;
+  transition: 0.2s;
+  box-shadow: gray 2px 2px 2px;
+}
+#ScheduleEntryContainer .scheduleEntryButtons .newScheduleEntryButton:hover, #ScheduleEntryContainer .scheduleEntryButtons .newScheduleEntryButton:focus {
+  background-color: #40854d;
+  border-color: #40854d;
+  cursor: pointer;
+}
+#ScheduleEntryContainer .scheduleEntryButtons .newScheduleEntryButton:active {
+  background-color: #3c7a47;
+  border-color: #3c7a47;
+}
+#ScheduleEntryContainer .scheduleEntryButtons .blank {
+  background-color: #6184ae;
+  border: #6184ae solid 1px;
+  color: white;
+  box-shadow: gray 2px 2px 2px;
+}
+#ScheduleEntryContainer .scheduleEntryButtons .blank:hover, #ScheduleEntryContainer .scheduleEntryButtons .blank:focus {
+  background-color: #56759a;
+  border-color: #56759a;
+  cursor: pointer;
+}
+#ScheduleEntryContainer .scheduleEntryButtons .blank:active {
+  background-color: #4e6b8e;
+  border-color: #4e6b8e;
+}
+
+/*# sourceMappingURL=index.css.map */

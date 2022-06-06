@@ -1,0 +1,65 @@
+.mainToProgramWindowContainer {
+
+  background-color: #5896d8;
+  border: 1px solid black;
+  padding: 5px;
+
+  display: flex;
+  flex-direction: row;
+  overflow: auto;
+
+  margin-right: 20px;
+
+  button {
+    // General styling for buttons; vertical alignment with some elbow room!
+    margin: auto 5px;
+    border: 1px solid black;
+    border-radius: 2px;
+    padding: 5px;
+
+    font-size: 10pt;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  .scheduleTitleButton {
+
+    background-color: #a9ffcf;
+
+    &:hover, &:focus {
+      background-color: #93deb4;
+    }
+
+    &:active {
+      background-color: #86cba5;
+    }
+  }
+
+  .addToTermButton {
+
+
+    background-color: #DCFFFB;
+
+    &:hover, &:focus {
+      background-color: #c8e8e4;
+    }
+
+    &:active {
+      background-color: #9fbab7;
+    }
+
+  }
+
+  .cancelAddToSchedule {
+
+    background-color: #FFDCF4;
+    transition: 0.2s;
+
+    &:hover, &:focus {
+      background-color: #e2c3d8;
+    }
+
+    &:active {
+      background-color: #FFDCF4;
+    }
+  }
+}
